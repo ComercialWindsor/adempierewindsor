@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 98
+build
+oracle.properties
+postgresql.properties
+my_processes_post_migration
+postgresql-*.properties
+
+END

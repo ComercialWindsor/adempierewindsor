@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter
+END
+BooleanArrayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/BooleanArrayFormatter.java
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/Formatter.java
+END
+BooleanFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/BooleanFormatter.java
+END
+BigDecimalArrayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/BigDecimalArrayFormatter.java
+END
+JulianDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/JulianDateFormatter.java
+END
+BigDecimalFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/BigDecimalFormatter.java
+END
+SimpleCalendarDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/SimpleCalendarDateFormatter.java
+END
+DefaultFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/DefaultFormatter.java
+END
+ReflectionFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/ReflectionFormatter.java
+END
+PrintFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/PrintFormatter.java
+END
+IntegerFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/IntegerFormatter.java
+END
+TimeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/TimeFormatter.java
+END
+LongFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/LongFormatter.java
+END
+PriceFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/PriceFormatter.java
+END
+StringArrayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/StringArrayFormatter.java
+END
+StringFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/StringFormatter.java
+END
+DoubleFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/DoubleFormatter.java
+END
+ArrayListFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/formatter/ArrayListFormatter.java
+END

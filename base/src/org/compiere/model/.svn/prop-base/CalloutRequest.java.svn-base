@@ -1,0 +1,6 @@
+K 13
+svn:mergeinfo
+V 151
+/branches/adempiere341/base/src/org/compiere/model/CalloutRequest.java:6081,6373-6374
+/branches/qa/base/src/org/compiere/model/CalloutRequest.java:8244
+END

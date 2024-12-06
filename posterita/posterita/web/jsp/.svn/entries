@@ -1,0 +1,82 @@
+10
+
+dir
+13592
+https://adempiere.svn.sourceforge.net/svnroot/adempiere/tags/adempiere360lts/posterita/posterita/web/jsp
+https://adempiere.svn.sourceforge.net/svnroot/adempiere
+
+
+
+2008-12-01T16:09:45.530860Z
+7368
+trifonnt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f8025ce2-341d-0410-ac50-9b82273f5115
+
+product
+dir
+
+include
+dir
+
+help
+dir
+
+attachment
+dir
+
+admin
+dir
+
+error
+dir
+
+cashBook
+dir
+
+invoice
+dir
+
+inOut
+dir
+
+pos
+dir
+
+customer
+dir
+
+login
+dir
+
+materialmovement
+dir
+
+report
+dir
+
+bPartner
+dir
+
+payment
+dir
+
+client
+dir
+
+user
+dir
+

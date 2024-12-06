@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/payment
+END
+viewPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/payment/viewPayment.jsp
+END
+viewPaymentHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/payment/viewPaymentHistory.jsp
+END
+paymentDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/payment/paymentDetails.jsp
+END

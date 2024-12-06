@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/adempiere/!svn/ver/12904/tags/adempiere360lts/base
+END
+.xdoclet
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/.xdoclet
+END
+packaging-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/packaging-build.xml
+END
+swing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/swing.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/.project
+END
+Remote Debug Adempiere.launch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/Remote%20Debug%20Adempiere.launch
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/RUN_build.bat
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/RUN_build.sh
+END
+packages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/packages.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/build.xml
+END
+xdoclet-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/xdoclet-build.xml
+END
+GenerateModel-general.launch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12904/tags/adempiere360lts/base/GenerateModel-general.launch
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/.classpath
+END
+ModelInterfaceGenerator.launch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/ModelInterfaceGenerator.launch
+END
+.packaging
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/.packaging
+END
+ADempiere.launch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12612/tags/adempiere360lts/base/ADempiere.launch
+END
+ModelClassGenerator.launch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/ModelClassGenerator.launch
+END
+Swingset.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/Swingset.bat
+END
+Base.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/Base.html
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/documentation.bat
+END

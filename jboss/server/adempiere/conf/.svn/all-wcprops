@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf
+END
+jndi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/jndi.properties
+END
+standardjboss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/standardjboss.xml
+END
+standardjbosscmp-jdbc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/standardjbosscmp-jdbc.xml
+END
+jboss-minimal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/jboss-minimal.xml
+END
+login-configTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/login-configTemplate.xml
+END
+jbossjta-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/jbossjta-properties.xml
+END
+jboss-serviceTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/jboss-serviceTemplate.xml
+END
+jboss-log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/jboss-log4j.xml
+END

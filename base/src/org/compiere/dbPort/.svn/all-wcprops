@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort
+END
+Join.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/Join.java
+END
+Convert.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/Convert.java
+END
+ConvertDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/ConvertDialog.java
+END
+ConvertMap_PostgreSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/ConvertMap_PostgreSQL.java
+END
+JdbcTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/JdbcTest.java
+END
+Convert_PostgreSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/Convert_PostgreSQL.java
+END
+Convert_PostgreSQLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/Convert_PostgreSQLTest.java
+END
+Convert_Oracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/Convert_Oracle.java
+END
+PostgresConvertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/PostgresConvertTest.java
+END
+JdbcTestPG.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/JdbcTestPG.java
+END
+Convert_SQL92.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/Convert_SQL92.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/dbPort/package.html
+END

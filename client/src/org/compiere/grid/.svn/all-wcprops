@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid
+END
+CreateFromShipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/CreateFromShipment.java
+END
+VTableExcelAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VTableExcelAdapter.java
+END
+VCreateFromStatementUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VCreateFromStatementUI.java
+END
+ICreateFrom.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ICreateFrom.java
+END
+XLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/XLookup.java
+END
+GridSynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/GridSynchronizer.java
+END
+VPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VPayment.java
+END
+CreateFromInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/CreateFromInvoice.java
+END
+VSortTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VSortTab.java
+END
+VCreateFromFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VCreateFromFactory.java
+END
+VCreateFromRMAUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VCreateFromRMAUI.java
+END
+VTabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VTabbedPane.java
+END
+CreateFromStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/CreateFromStatement.java
+END
+VTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VTable.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/package.html
+END
+RecordAccessDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/RecordAccessDialog.java
+END
+VCreateFromShipmentUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VCreateFromShipmentUI.java
+END
+VPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VPanel.java
+END
+CreateFromRMA.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/CreateFromRMA.java
+END
+CreateFrom.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/CreateFrom.java
+END
+APanelTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/APanelTab.java
+END
+VCreateFromInvoiceUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VCreateFromInvoiceUI.java
+END
+GridController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/GridController.java
+END
+VOnlyCurrentDays.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VOnlyCurrentDays.java
+END
+VCreateFromDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/VCreateFromDialog.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/tests
+END
+BOM_PriceXXX_Tests.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/tests/BOM_PriceXXX_Tests.sql
+END
+Acct_Balance_Test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/tests/Acct_Balance_Test.sql
+END

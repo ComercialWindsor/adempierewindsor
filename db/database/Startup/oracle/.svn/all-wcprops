@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle
+END
+CreateUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle/CreateUser.sql
+END
+Daily.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle/Daily.sql
+END
+CheckDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle/CheckDB.sql
+END
+BeforeExport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle/BeforeExport.sql
+END
+Stop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle/Stop.sql
+END
+BackupCold.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle/BackupCold.sql
+END
+AfterImport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle/AfterImport.sql
+END
+Start.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle/Start.sql
+END
+Test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Startup/oracle/Test.sql
+END

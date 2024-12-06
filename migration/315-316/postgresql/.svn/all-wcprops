@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/315-316/postgresql
+END
+001_allow_silent_processes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/315-316/postgresql/001_allow_silent_processes.sql
+END
+002_fix_language_key.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/315-316/postgresql/002_fix_language_key.sql
+END
+007_fix_size_window_business_partner.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/315-316/postgresql/007_fix_size_window_business_partner.sql
+END
+004_fix_typo_spanish_es_MX.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/315-316/postgresql/004_fix_typo_spanish_es_MX.sql
+END
+006_fix_RV_STORAGE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/315-316/postgresql/006_fix_RV_STORAGE.sql
+END
+009_version316.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/315-316/postgresql/009_version316.sql
+END
+003_fix_typo_C_Invoice_InvoiceCollectionType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/315-316/postgresql/003_fix_typo_C_Invoice_InvoiceCollectionType.sql
+END
+008_fix_fk_on_delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/315-316/postgresql/008_fix_fk_on_delete.sql
+END

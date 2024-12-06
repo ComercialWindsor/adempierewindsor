@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/customer
+END
+createPOSCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/customer/createPOSCustomer.jsp
+END
+existingPOSCustomers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/customer/existingPOSCustomers.jsp
+END
+savePOSCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/customer/savePOSCustomer.jsp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-web.deployer/jsf-libs
+END
+jsf-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-web.deployer/jsf-libs/jsf-api.jar
+END
+jboss-faces.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-web.deployer/jsf-libs/jboss-faces.jar
+END
+jsf-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-web.deployer/jsf-libs/jsf-impl.jar
+END

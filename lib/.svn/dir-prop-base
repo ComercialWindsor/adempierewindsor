@@ -1,0 +1,33 @@
+K 10
+svn:ignore
+V 374
+
+Adempiere.jar
+adempiereApps.jar
+adempiereApps.war
+adempiereApps.xml
+adempiereRoot.jar
+adempiereRoot.xml
+adempiereRootBase.war
+adempiereWebCM.xml
+adempiereWebCMbase.war
+adempiereWebStore.war
+adempiereWebStore.xml
+CCTools.jar
+CompiereJasperReqs.jar
+CSTools.jar
+jboss.jar
+oracle.jar
+postgresql.jar
+
+posterita.jar
+
+posterita.war
+
+webui.war
+
+glassfish.jar
+
+posteritaPatches.jar
+
+END

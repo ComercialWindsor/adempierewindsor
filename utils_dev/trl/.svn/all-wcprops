@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils_dev/trl
+END
+encode.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils_dev/trl/encode.html
+END
+trl_Print.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils_dev/trl/trl_Print.xsl
+END
+trl_Mandatory.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils_dev/trl/trl_Mandatory.xsl
+END
+RUN_Trl_Print.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils_dev/trl/RUN_Trl_Print.bat
+END
+adempiereTrl.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils_dev/trl/adempiereTrl.dtd
+END
+RUN_Trl_Mandatory.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils_dev/trl/RUN_Trl_Mandatory.bat
+END

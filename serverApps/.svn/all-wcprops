@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverApps
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverApps/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverApps/.project
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverApps/RUN_build.bat
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverApps/RUN_build.sh
+END
+packages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverApps/packages.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverApps/build.xml
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverApps/documentation.bat
+END

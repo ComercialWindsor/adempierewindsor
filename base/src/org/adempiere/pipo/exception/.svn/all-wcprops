@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/exception
+END
+POSaveFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/exception/POSaveFailedException.java
+END
+DatabaseAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/exception/DatabaseAccessException.java
+END
+NonUniqueIDLookupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/exception/NonUniqueIDLookupException.java
+END

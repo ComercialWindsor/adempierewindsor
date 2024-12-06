@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core
+END
+ReadKiaDemoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/ReadKiaDemoData.java
+END
+PieChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/PieChart.java
+END
+KeyNamePairUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/KeyNamePairUtil.java
+END
+Interpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/Interpreter.java
+END
+PDFReportPageEventHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/PDFReportPageEventHelper.java
+END
+UpdateUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/UpdateUsers.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/Configuration.java
+END
+FileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/FileManager.java
+END
+BarLabelGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/BarLabelGenerator.java
+END
+FactoryPropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/FactoryPropertiesManager.java
+END
+AbstractParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/AbstractParser.java
+END
+I18nAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/I18nAdapter.java
+END
+SimpleCalendarDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/SimpleCalendarDate.java
+END
+MenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/MenuItem.java
+END
+AbstractChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/AbstractChart.java
+END
+TabularReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/TabularReport.java
+END
+FilePropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/FilePropertiesManager.java
+END
+TimeSeriesChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/TimeSeriesChart.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/Range.java
+END
+EmailValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/EmailValidator.java
+END
+UDIPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/UDIPair.java
+END
+PrintOrderApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/PrintOrderApplet.java
+END
+SystemObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/SystemObjects.java
+END
+ContextId.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/ContextId.java
+END
+WebFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/WebFacade.java
+END
+TestStockInquiry.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/TestStockInquiry.java
+END
+TimestampConvertor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/TimestampConvertor.java
+END
+TabularReportMerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/TabularReportMerge.java
+END
+DocStatusMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/DocStatusMap.java
+END
+SessionStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/SessionStorage.java
+END
+TabularReport2.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/TabularReport2.java
+END
+ImageServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/ImageServer.java
+END
+InitWebEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/InitWebEnv.java
+END
+PDFReportGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/PDFReportGenerator.java
+END
+CheckDuplicateEntities.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/CheckDuplicateEntities.java
+END
+RandomStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/RandomStringGenerator.java
+END
+UDIMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/UDIMap.java
+END
+JulianDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/JulianDate.java
+END
+TmkJSPEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/TmkJSPEnv.java
+END
+CrossTabReportGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/CrossTabReportGenerator.java
+END
+PieLabelGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/PieLabelGenerator.java
+END
+BarChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/BarChart.java
+END
+NameValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/NameValuePair.java
+END
+UDIFilePropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/UDIFilePropertiesManager.java
+END
+UDIPropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/UDIPropertiesManager.java
+END
+ThumbnailGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/ThumbnailGenerator.java
+END
+TrxPrefix.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/TrxPrefix.java
+END
+SimpleReportGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/core/SimpleReportGenerator.java
+END

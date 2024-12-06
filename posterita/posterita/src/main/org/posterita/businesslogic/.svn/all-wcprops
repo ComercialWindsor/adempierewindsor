@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic
+END
+MenuManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/MenuManager.java
+END
+StockInquiryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/StockInquiryManager.java
+END
+PaymentTermManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/PaymentTermManager.java
+END
+POSStockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/POSStockManager.java
+END
+SearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/SearchManager.java
+END
+LocationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/LocationManager.java
+END
+LoginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/LoginManager.java
+END
+POSBpartnerInfoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/POSBpartnerInfoManager.java
+END
+BankManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/BankManager.java
+END
+PartialPOSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/PartialPOSManager.java
+END
+CashManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/CashManager.java
+END
+CustomerCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/CustomerCart.java
+END
+ProductAttributeSetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/ProductAttributeSetManager.java
+END
+PostingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/PostingManager.java
+END
+AttributeValuesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/AttributeValuesManager.java
+END
+PaymentAllocationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/PaymentAllocationManager.java
+END
+RoleMenuManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/RoleMenuManager.java
+END
+UDIMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/UDIMessageManager.java
+END
+EditBulkProductFromFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/EditBulkProductFromFileManager.java
+END
+InvoiceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/InvoiceManager.java
+END
+PrintManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/PrintManager.java
+END
+StoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/StoreManager.java
+END
+POSTerminalManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/POSTerminalManager.java
+END
+ProductCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/ProductCart.java
+END
+POSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/POSManager.java
+END
+ShoppingcartManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/ShoppingcartManager.java
+END
+POSProductManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/POSProductManager.java
+END
+AbstractDocumentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/AbstractDocumentManager.java
+END
+MinOutManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/MinOutManager.java
+END
+OrderManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/OrderManager.java
+END
+PaymentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/PaymentManager.java
+END
+ClientManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/ClientManager.java
+END
+ProcessManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/ProcessManager.java
+END
+GenericStockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/GenericStockManager.java
+END
+CashTransferManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/CashTransferManager.java
+END
+RegionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/RegionManager.java
+END
+ProductImageUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/ProductImageUploader.java
+END
+FileAttachmentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/FileAttachmentManager.java
+END
+OrderReferenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/OrderReferenceManager.java
+END
+CurrencyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/CurrencyManager.java
+END
+POSGoodsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/POSGoodsManager.java
+END
+OrganisationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/OrganisationManager.java
+END
+ImportPosProductManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/ImportPosProductManager.java
+END
+POSClientManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/POSClientManager.java
+END
+HistoryFilterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/HistoryFilterBean.java
+END

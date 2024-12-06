@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot
+END
+Remote Debug Adempiere - serverRoot.launch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/Remote%20Debug%20Adempiere%20-%20serverRoot.launch
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/.classpath
+END
+.xdoclet
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/.xdoclet
+END
+.packaging
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/.packaging
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/.project
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/RUN_build.bat
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/RUN_build.sh
+END
+packages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/packages.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/build.xml
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/documentation.bat
+END

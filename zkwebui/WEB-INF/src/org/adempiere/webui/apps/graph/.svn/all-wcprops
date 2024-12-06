@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph
+END
+WPerformanceIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WPerformanceIndicator.java
+END
+WPAPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WPAPanel.java
+END
+WGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WGraph.java
+END
+WViewPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WViewPI.java
+END
+WPerformanceDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WPerformanceDetail.java
+END

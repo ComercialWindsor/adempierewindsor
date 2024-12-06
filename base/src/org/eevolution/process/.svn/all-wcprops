@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/eevolution/process
+END
+BankTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/eevolution/process/BankTransfer.java
+END
+ExportFormatGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/eevolution/process/ExportFormatGenerator.java
+END
+EnableNativeSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/eevolution/process/EnableNativeSequence.java
+END
+InvoiceCalculateTax.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/eevolution/process/InvoiceCalculateTax.java
+END

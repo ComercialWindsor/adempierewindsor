@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/.project
+END
+FunctionalTestSuite.launch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/FunctionalTestSuite.launch
+END
+InventoryTest.launch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/InventoryTest.launch
+END
+Profile-SingleMProductTest.launch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/Profile-SingleMProductTest.launch
+END
+testTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/testTemplate.properties
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/RUN_build.bat
+END
+Extend.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/Extend.html
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/RUN_build.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/build.xml
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/documentation.bat
+END

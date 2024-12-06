@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/impexp
+END
+GridTabExcelExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/impexp/GridTabExcelExporter.java
+END
+ArrayExcelExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/impexp/ArrayExcelExporter.java
+END
+AbstractExcelExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/impexp/AbstractExcelExporter.java
+END

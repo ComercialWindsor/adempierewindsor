@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/print
+END
+Viewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/print/Viewer.java
+END
+SwingViewerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/print/SwingViewerProvider.java
+END
+ReportViewerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/print/ReportViewerProvider.java
+END
+AReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/print/AReport.java
+END
+ReportCtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/print/ReportCtl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/print/package.html
+END

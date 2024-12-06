@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/process/rpl/exp
+END
+TopicExportProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/process/rpl/exp/TopicExportProcessor.java
+END
+ExportHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/process/rpl/exp/ExportHelper.java
+END
+HDDExportProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/process/rpl/exp/HDDExportProcessor.java
+END
+ModelExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/process/rpl/exp/ModelExporter.java
+END
+MultiplePublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/process/rpl/exp/MultiplePublisher.java
+END

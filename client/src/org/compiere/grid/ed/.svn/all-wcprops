@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed
+END
+VButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VButton.java
+END
+VBPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VBPartner.java
+END
+VColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VColor.java
+END
+MDocString.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/MDocString.java
+END
+ValuePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/ValuePreference.java
+END
+VEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VEditor.java
+END
+VCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VCheckBox.java
+END
+VLocationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VLocationDialog.java
+END
+MDocDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/MDocDate.java
+END
+VAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VAccount.java
+END
+VPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VPassword.java
+END
+Calculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/Calculator.java
+END
+VLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VLocator.java
+END
+MDocNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/MDocNumber.java
+END
+VCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VCellRenderer.java
+END
+VString.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VString.java
+END
+VComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VComboBox.java
+END
+VAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VAssignment.java
+END
+VStringBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VStringBeanInfo.java
+END
+VLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VLookup.java
+END
+ComboSelectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/ComboSelectionManager.java
+END
+MDocTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/MDocTime.java
+END
+VRowIDRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VRowIDRenderer.java
+END
+AutoCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/AutoCompletion.java
+END
+VAccountDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VAccountDialog.java
+END
+VDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VDate.java
+END
+VEditorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VEditorFactory.java
+END
+VHeaderRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VHeaderRenderer.java
+END
+VFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VFile.java
+END
+VImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VImage.java
+END
+Calendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/Calendar.java
+END
+VLocatorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VLocatorDialog.java
+END
+VPAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VPAttribute.java
+END
+VBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VBinary.java
+END
+VText.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VText.java
+END
+HTMLEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/HTMLEditor.java
+END
+VOvrCaret.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VOvrCaret.java
+END
+VCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VCellEditor.java
+END
+CityAutoCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/CityAutoCompleter.java
+END
+VTextBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VTextBeanInfo.java
+END
+CityVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/CityVO.java
+END
+VLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VLine.java
+END
+VAssignmentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VAssignmentDialog.java
+END
+VNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VNumber.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/package.html
+END
+ADempiereAutoCompleteDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/ADempiereAutoCompleteDecorator.java
+END
+VRowIDEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VRowIDEditor.java
+END
+AutoCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/AutoCompleter.java
+END
+VMemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VMemo.java
+END
+Editor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/Editor.java
+END
+VImageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VImageDialog.java
+END
+VURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VURL.java
+END
+VDocAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VDocAction.java
+END
+VManagedEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VManagedEditor.java
+END
+VPAttributeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VPAttributeDialog.java
+END
+VTextLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VTextLong.java
+END
+VLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/grid/ed/VLocation.java
+END

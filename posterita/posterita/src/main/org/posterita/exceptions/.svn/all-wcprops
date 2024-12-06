@@ -1,0 +1,953 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions
+END
+UserAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/UserAlreadyExistsException.java
+END
+SystemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/SystemException.java
+END
+CustomerNotImportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CustomerNotImportedException.java
+END
+ImportFileNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ImportFileNotFoundException.java
+END
+EncryptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EncryptionException.java
+END
+InvalidTerminalCashBookException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidTerminalCashBookException.java
+END
+CreditCardTypeNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CreditCardTypeNotSupportedException.java
+END
+NoPaymentAmountException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoPaymentAmountException.java
+END
+InvalidOrderIDException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidOrderIDException.java
+END
+ThumbnailGenerationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ThumbnailGenerationException.java
+END
+LogoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/LogoException.java
+END
+InvalidRequestUpdateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidRequestUpdateException.java
+END
+InvalidDateTimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidDateTimeException.java
+END
+WarehouseAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/WarehouseAlreadyExistsException.java
+END
+AttachmentNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/AttachmentNotFoundException.java
+END
+DeleteAttachmentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DeleteAttachmentException.java
+END
+CreditCardExpiryInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CreditCardExpiryInvalidException.java
+END
+NoProductImageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoProductImageException.java
+END
+DuplicatePINException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DuplicatePINException.java
+END
+TerminalInactivateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TerminalInactivateException.java
+END
+LimitPriceViolatedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/LimitPriceViolatedException.java
+END
+EmailAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EmailAlreadyExistsException.java
+END
+BankAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BankAlreadyExistException.java
+END
+CSVFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CSVFileException.java
+END
+CSVDataInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CSVDataInvalidException.java
+END
+POSTerminalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/POSTerminalException.java
+END
+TerminalLockedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TerminalLockedException.java
+END
+EMailInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EMailInvalidException.java
+END
+TaxNameAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TaxNameAlreadyExistsException.java
+END
+OperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/OperationException.java
+END
+UserInactiveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/UserInactiveException.java
+END
+EMailNotSentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EMailNotSentException.java
+END
+TaxRateNotDefineException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TaxRateNotDefineException.java
+END
+PaymentTermAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/PaymentTermAlreadyExistsException.java
+END
+InvalidYearException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidYearException.java
+END
+KeywordsRequiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/KeywordsRequiredException.java
+END
+InvalidRoleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidRoleException.java
+END
+AllocatedAmtMoreThanOpenAmtException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/AllocatedAmtMoreThanOpenAmtException.java
+END
+CanNotMoveStockException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CanNotMoveStockException.java
+END
+BPartnerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BPartnerException.java
+END
+EMailMessageParsingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EMailMessageParsingException.java
+END
+InvalidOrderTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidOrderTypeException.java
+END
+InvalidBPartnerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidBPartnerException.java
+END
+ImportFileAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ImportFileAlreadyExistException.java
+END
+UserNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/UserNotFoundException.java
+END
+DuplicateRoleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DuplicateRoleException.java
+END
+EMailMessageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EMailMessageException.java
+END
+ClientAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ClientAlreadyExistException.java
+END
+EMailServerConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EMailServerConnectionException.java
+END
+MandatoryNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/MandatoryNameException.java
+END
+InvalidMessageStatusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidMessageStatusException.java
+END
+InvalidBankAccountException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidBankAccountException.java
+END
+DefaultStoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DefaultStoreException.java
+END
+NoAllocateeInvoiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoAllocateeInvoiceException.java
+END
+NotLoggedInException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NotLoggedInException.java
+END
+CanNotCreatePaymentAllocationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CanNotCreatePaymentAllocationException.java
+END
+FormattingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/FormattingException.java
+END
+ProductNotOnPriceListException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ProductNotOnPriceListException.java
+END
+CreditCardNumberException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CreditCardNumberException.java
+END
+InvalidBankException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidBankException.java
+END
+CanNotAjdustTillException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CanNotAjdustTillException.java
+END
+EMailServerMessageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EMailServerMessageException.java
+END
+InsufficientQtyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InsufficientQtyException.java
+END
+InvalidProductQuantityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidProductQuantityException.java
+END
+TerminalNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TerminalNotFoundException.java
+END
+NoOrderLineSelectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoOrderLineSelectedException.java
+END
+NoCustomerFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoCustomerFoundException.java
+END
+CannotInactivateProductException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CannotInactivateProductException.java
+END
+CannotCreateInventoryLineException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CannotCreateInventoryLineException.java
+END
+StoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/StoreException.java
+END
+ReloadFactoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ReloadFactoryException.java
+END
+MandatoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/MandatoryException.java
+END
+AttachmentInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/AttachmentInvalidException.java
+END
+InputQuantityLessThanZeroException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InputQuantityLessThanZeroException.java
+END
+TransferAmountExceedsTotalAmountException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TransferAmountExceedsTotalAmountException.java
+END
+CannotInactivateTaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CannotInactivateTaxException.java
+END
+POException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/POException.java
+END
+WrongPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/WrongPasswordException.java
+END
+NoStockAvailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoStockAvailableException.java
+END
+BPartnerInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BPartnerInvalidException.java
+END
+BirtEngineException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BirtEngineException.java
+END
+DiscountLimitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DiscountLimitException.java
+END
+BPartnerAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BPartnerAlreadyExistException.java
+END
+InvalidPINException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidPINException.java
+END
+TMKRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TMKRuntimeException.java
+END
+NullTransferAmountException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NullTransferAmountException.java
+END
+ApplicationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ApplicationException.java
+END
+ProductNotImportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ProductNotImportedException.java
+END
+NoClientFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoClientFoundException.java
+END
+CashBookAlreadyAssignedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CashBookAlreadyAssignedException.java
+END
+ProductInStockException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ProductInStockException.java
+END
+ImportProductException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ImportProductException.java
+END
+SequenceUpdateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/SequenceUpdateException.java
+END
+NoOrderLineFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoOrderLineFoundException.java
+END
+PayAmtNotEqualToAllocateAmtException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/PayAmtNotEqualToAllocateAmtException.java
+END
+BPGroupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BPGroupException.java
+END
+RequestOwnerNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/RequestOwnerNotFoundException.java
+END
+DuplicateUserPinException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DuplicateUserPinException.java
+END
+CloseStatusNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CloseStatusNotFoundException.java
+END
+AllocationAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/AllocationAlreadyExistsException.java
+END
+TrackingNumberNotfoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TrackingNumberNotfoundException.java
+END
+DuplicateUOMException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DuplicateUOMException.java
+END
+InvalidMonthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidMonthException.java
+END
+InvalidAddressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidAddressException.java
+END
+SurnameNotPresentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/SurnameNotPresentException.java
+END
+ProductNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ProductNotFoundException.java
+END
+CanNotCloseTillException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CanNotCloseTillException.java
+END
+InvalidEmailException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidEmailException.java
+END
+OrganisationAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/OrganisationAlreadyExistsException.java
+END
+PriceListAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/PriceListAlreadyExistsException.java
+END
+DescriptionNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DescriptionNotFoundException.java
+END
+BarcodeAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BarcodeAlreadyExistsException.java
+END
+InvalidInvokeOrderStatusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidInvokeOrderStatusException.java
+END
+BPartnerNoLocationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BPartnerNoLocationException.java
+END
+BPartnerOverCreditLimitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BPartnerOverCreditLimitException.java
+END
+EMailServerLoginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EMailServerLoginException.java
+END
+TaxRateAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TaxRateAlreadyExistsException.java
+END
+UOMValuePrecisionNotValidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/UOMValuePrecisionNotValidException.java
+END
+UnsupportedDatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/UnsupportedDatabaseException.java
+END
+UserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/UserException.java
+END
+WebstoreOrderProcessingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/WebstoreOrderProcessingException.java
+END
+TotalQuantityLessThanZeroException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TotalQuantityLessThanZeroException.java
+END
+InvalidTenderedAmountException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidTenderedAmountException.java
+END
+NoProductSelectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoProductSelectedException.java
+END
+InvalidConfirmPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidConfirmPasswordException.java
+END
+CreditCardVVInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CreditCardVVInvalidException.java
+END
+BPartnerNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BPartnerNotFoundException.java
+END
+CanNotDeleteOrderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CanNotDeleteOrderException.java
+END
+AttributeValueAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/AttributeValueAlreadyExistsException.java
+END
+RoleAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/RoleAlreadyExistsException.java
+END
+EmailNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EmailNotFoundException.java
+END
+NoCashJournalPresentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoCashJournalPresentException.java
+END
+TooManyAllocateInvoiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/TooManyAllocateInvoiceException.java
+END
+DataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DataException.java
+END
+AttributeValuesDifferentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/AttributeValuesDifferentException.java
+END
+InvalidPasswordLengthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidPasswordLengthException.java
+END
+ShipperAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ShipperAlreadyExistsException.java
+END
+BPartnerAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/BPartnerAlreadyExistsException.java
+END
+InvalidContentTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidContentTypeException.java
+END
+UserInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/UserInvalidException.java
+END
+InvalidPeriodException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidPeriodException.java
+END
+ShipmentAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ShipmentAlreadyExistsException.java
+END
+ProductImageInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ProductImageInvalidException.java
+END
+ImageAttachmentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ImageAttachmentException.java
+END
+NoCheckBoxSelectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoCheckBoxSelectedException.java
+END
+NoAccessToEditObjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoAccessToEditObjectException.java
+END
+ProductAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/ProductAlreadyExistException.java
+END
+QuantityNotAvailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/QuantityNotAvailableException.java
+END
+NoLocationFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/NoLocationFoundException.java
+END
+DocumentDoesNotBelongToYouException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/DocumentDoesNotBelongToYouException.java
+END
+CannotDeactivatePaymentTermException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/CannotDeactivatePaymentTermException.java
+END
+InvalidOrganisationTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidOrganisationTypeException.java
+END
+InvalidBarcodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidBarcodeException.java
+END
+UnitNumberAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/UnitNumberAlreadyExistException.java
+END
+EmptyCartException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/EmptyCartException.java
+END
+InvalidURLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidURLException.java
+END
+UOMNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/UOMNotFoundException.java
+END
+InvalidNetDaysException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/exceptions/InvalidNetDaysException.java
+END

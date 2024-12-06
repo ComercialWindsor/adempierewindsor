@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/interfaces
+END
+StatusRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/interfaces/StatusRemote.java
+END
+ServerLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/interfaces/ServerLocal.java
+END
+ServerRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/interfaces/ServerRemote.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/interfaces/Status.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/interfaces/Server.java
+END
+StatusLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/interfaces/StatusLocal.java
+END

@@ -1,0 +1,73 @@
+10
+
+dir
+13592
+https://adempiere.svn.sourceforge.net/svnroot/adempiere/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts
+https://adempiere.svn.sourceforge.net/svnroot/adempiere
+
+
+
+2010-01-18T17:02:15.851159Z
+11303
+globalqss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f8025ce2-341d-0410-ac50-9b82273f5115
+
+product
+dir
+
+stock
+dir
+
+attributes
+dir
+
+core
+dir
+
+attachment
+dir
+
+admin
+dir
+
+invoice
+dir
+
+inOut
+dir
+
+pos
+dir
+
+customer
+dir
+
+menu
+dir
+
+login
+dir
+
+order
+dir
+
+bPartner
+dir
+
+user
+dir
+

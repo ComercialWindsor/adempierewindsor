@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/oracle
+END
+RUN_sqlj.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/oracle/RUN_sqlj.bat
+END
+RUN_sqlj.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/oracle/RUN_sqlj.sh
+END
+create.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/oracle/create.bat
+END
+createSQLJ.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/oracle/createSQLJ.sql
+END
+create.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/oracle/create.sh
+END

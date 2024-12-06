@@ -1,0 +1,833 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans
+END
+AttributeValuesPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/AttributeValuesPair.java
+END
+PopulateHistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/PopulateHistoryBean.java
+END
+CashBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CashBean.java
+END
+DocumentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/DocumentBean.java
+END
+CommissionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CommissionBean.java
+END
+BlackListedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/BlackListedBean.java
+END
+ProductSalesInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductSalesInfoBean.java
+END
+MessageLoggerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/MessageLoggerBean.java
+END
+TabularReportRecordBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/TabularReportRecordBean.java
+END
+AddressBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/AddressBean.java
+END
+TradeInBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/TradeInBean.java
+END
+ApplicationParametersBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ApplicationParametersBean.java
+END
+OrgBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/OrgBean.java
+END
+CashSummaryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CashSummaryBean.java
+END
+SynchronizationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/SynchronizationBean.java
+END
+SalesAnalysisReportDataBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/SalesAnalysisReportDataBean.java
+END
+WebInvoiceLineBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/WebInvoiceLineBean.java
+END
+ProductPriceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductPriceBean.java
+END
+ProductInstanceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductInstanceBean.java
+END
+PaymentTermBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/PaymentTermBean.java
+END
+ProductInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductInfo.java
+END
+SalesAnalysisReportBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/SalesAnalysisReportBean.java
+END
+CreditCheckBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CreditCheckBean.java
+END
+BankStatementLineBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/BankStatementLineBean.java
+END
+OrderLineAttributeSetInstanceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/OrderLineAttributeSetInstanceBean.java
+END
+SalesDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/SalesDetailsBean.java
+END
+PaymentTypeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/PaymentTypeBean.java
+END
+ProductImageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductImageBean.java
+END
+AttachmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/AttachmentBean.java
+END
+AttributeInstanceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/AttributeInstanceBean.java
+END
+CloseTillBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CloseTillBean.java
+END
+POSReportBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/POSReportBean.java
+END
+CustomerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CustomerBean.java
+END
+ProductSearchBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductSearchBean.java
+END
+InventoryCartBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/InventoryCartBean.java
+END
+ProductKeywordsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductKeywordsBean.java
+END
+OrderBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/OrderBean.java
+END
+WebDocumentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/WebDocumentBean.java
+END
+ProductSpecsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductSpecsBean.java
+END
+InvoiceHistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/InvoiceHistoryBean.java
+END
+ProductQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductQuery.java
+END
+WebOrderLineBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/WebOrderLineBean.java
+END
+AttributeValueDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/AttributeValueDetailBean.java
+END
+OrderLineBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/OrderLineBean.java
+END
+ChangeDocumentStatusBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ChangeDocumentStatusBean.java
+END
+BankAccountBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/BankAccountBean.java
+END
+MinOutHistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/MinOutHistoryBean.java
+END
+PriceListBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/PriceListBean.java
+END
+ItemBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ItemBean.java
+END
+LocatorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/LocatorBean.java
+END
+ProductSupplierBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductSupplierBean.java
+END
+CreditCardBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CreditCardBean.java
+END
+OrderLineImporterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/OrderLineImporterBean.java
+END
+ProductRestrictionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductRestrictionBean.java
+END
+POSHelpBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/POSHelpBean.java
+END
+DisplayMessageLogBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/DisplayMessageLogBean.java
+END
+GenericProductBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/GenericProductBean.java
+END
+CreditPaymentDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CreditPaymentDetailsBean.java
+END
+OpenItemBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/OpenItemBean.java
+END
+DateFilterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/DateFilterBean.java
+END
+ProductStatusBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductStatusBean.java
+END
+FilterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/FilterBean.java
+END
+ProductDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductDetailsBean.java
+END
+BPartnerInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/BPartnerInfoBean.java
+END
+VendorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/VendorBean.java
+END
+WebstoreProductImageFileBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/WebstoreProductImageFileBean.java
+END
+DunningBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/DunningBean.java
+END
+LoginBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/LoginBean.java
+END
+ProductImageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductImageInfo.java
+END
+OrgUsersBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/OrgUsersBean.java
+END
+ShipperBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ShipperBean.java
+END
+PaymentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/PaymentBean.java
+END
+CommandBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CommandBean.java
+END
+WebStockBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/WebStockBean.java
+END
+StockBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/StockBean.java
+END
+PaymentDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/PaymentDetailsBean.java
+END
+POSHistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/POSHistoryBean.java
+END
+TShirtProductDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/TShirtProductDetailsBean.java
+END
+POSSupplierBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/POSSupplierBean.java
+END
+CashLineBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CashLineBean.java
+END
+TestMod.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/TestMod.java
+END
+OrderHistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/OrderHistoryBean.java
+END
+PaymentHistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/PaymentHistoryBean.java
+END
+ShoppingCartBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ShoppingCartBean.java
+END
+ProductAttributeValueBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductAttributeValueBean.java
+END
+SearchBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/SearchBean.java
+END
+ReportDataBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ReportDataBean.java
+END
+CheckoutBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CheckoutBean.java
+END
+EditPriceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/EditPriceBean.java
+END
+TerminalBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/TerminalBean.java
+END
+ReportBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ReportBean.java
+END
+BankBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/BankBean.java
+END
+POSInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/POSInfoBean.java
+END
+UserBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/UserBean.java
+END
+MMovementCartBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/MMovementCartBean.java
+END
+PaymentAllocationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/PaymentAllocationBean.java
+END
+AgingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/AgingBean.java
+END
+ProductSalesSummaryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductSalesSummaryBean.java
+END
+SynchronizeCollectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/SynchronizeCollectionBean.java
+END
+TrendsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/TrendsBean.java
+END
+SearchOrderBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/SearchOrderBean.java
+END
+RoleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/RoleBean.java
+END
+WarehouseBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/WarehouseBean.java
+END
+POSDescriptionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/POSDescriptionBean.java
+END
+StatementOfAccountBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/StatementOfAccountBean.java
+END
+BPartnerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/BPartnerBean.java
+END
+ProductCategoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductCategoryBean.java
+END
+ProductBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductBean.java
+END
+InOutHistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/InOutHistoryBean.java
+END
+UDIBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/UDIBean.java
+END
+WebMinOutLineBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/WebMinOutLineBean.java
+END
+CashBookBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CashBookBean.java
+END
+TaxBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/TaxBean.java
+END
+InventoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/InventoryBean.java
+END
+DocumentHistortFilterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/DocumentHistortFilterBean.java
+END
+AttributeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/AttributeBean.java
+END
+ProductAttributeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductAttributeBean.java
+END
+POSStockBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/POSStockBean.java
+END
+InventoryLineBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/InventoryLineBean.java
+END
+UDIPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/UDIPair.java
+END
+PrintBarcodeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/PrintBarcodeBean.java
+END
+CashBookDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CashBookDetailBean.java
+END
+AvailableProductSizeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/AvailableProductSizeBean.java
+END
+ReportImageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ReportImageBean.java
+END
+AttributeValuesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/AttributeValuesBean.java
+END
+MenuItemBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/MenuItemBean.java
+END
+MessageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/MessageBean.java
+END
+WebDocumentHeaderBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/WebDocumentHeaderBean.java
+END
+OrderInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/OrderInfoBean.java
+END
+WebstoreUserBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/WebstoreUserBean.java
+END
+CurrencyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CurrencyBean.java
+END
+CurrentTillAmountBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/CurrentTillAmountBean.java
+END
+ProductInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ProductInfoBean.java
+END
+StockMovementBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/StockMovementBean.java
+END
+DocumentHistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/DocumentHistoryBean.java
+END
+RemoveSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/RemoveSessionBean.java
+END
+POSBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/POSBean.java
+END
+ChangePasswordBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/beans/ChangePasswordBean.java
+END

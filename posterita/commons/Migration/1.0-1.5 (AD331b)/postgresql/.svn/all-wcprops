@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.0-1.5%20(AD331b)/postgresql
+END
+002_ad_message.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.0-1.5%20(AD331b)/postgresql/002_ad_message.sql
+END
+001_ad_changes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.0-1.5%20(AD331b)/postgresql/001_ad_changes.sql
+END
+003_m_pricelist.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.0-1.5%20(AD331b)/postgresql/003_m_pricelist.sql
+END

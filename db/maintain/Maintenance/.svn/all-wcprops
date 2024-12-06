@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance
+END
+C_ValidCombbination_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_ValidCombbination_Check.sql
+END
+AD_Field_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Field_Check.sql
+END
+9_UpdateDBVersion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/9_UpdateDBVersion.sql
+END
+0_DataCheck.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/0_DataCheck.sql
+END
+DBA_RecreateTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DBA_RecreateTables.sql
+END
+AD_Window_Access.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Window_Access.sql
+END
+0_Add_New_Column.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/0_Add_New_Column.sql
+END
+AD_Process_Access.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Process_Access.sql
+END
+C_PaymentTerm_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_PaymentTerm_Check.sql
+END
+TableColumn.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/TableColumn.sql
+END
+DBA_Trg_Enable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DBA_Trg_Enable.sql
+END
+8_DropTrg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/8_DropTrg.sql
+END
+0_CleanUpAD.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/0_CleanUpAD.sql
+END
+0_SyncNames.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/0_SyncNames.sql
+END
+DBA_Tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DBA_Tables.sql
+END
+C_Location_Cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_Location_Cleanup.sql
+END
+DBA_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DBA_Check.sql
+END
+AD_PrintFormatItem_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_PrintFormatItem_Check.sql
+END
+AD_Field_ReSeq.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Field_ReSeq.sql
+END
+DB2_Utils.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DB2_Utils.sql
+END
+M_AttributeSet_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/M_AttributeSet_Check.sql
+END
+AD_Org_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Org_Check.sql
+END
+M_Product_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/M_Product_Check.sql
+END
+2_ObjectCompare.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/2_ObjectCompare.sql
+END
+AD_WorkFlow_Access.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_WorkFlow_Access.sql
+END
+AD_Menu_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Menu_Check.sql
+END
+AD_TreeNode_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_TreeNode_Check.sql
+END
+AD_Sequence_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Sequence_Check.sql
+END
+DBA_DeleteCascade.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DBA_DeleteCascade.sql
+END
+M_Product_Delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/M_Product_Delete.sql
+END
+8_CleanUp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/8_CleanUp.sql
+END
+C_ElementValue_Copy.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_ElementValue_Copy.sql
+END
+DBA_Trg_Disable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DBA_Trg_Disable.sql
+END
+C_ElementValue_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_ElementValue_Check.sql
+END
+AD_Element_Copy.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Element_Copy.sql
+END
+C_BPartner_Contact_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_BPartner_Contact_Check.sql
+END
+DBA_ChangeKey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DBA_ChangeKey.sql
+END
+AD_Form_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Form_Check.sql
+END
+C_Project_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_Project_Check.sql
+END
+DBA_Recompile_Run.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DBA_Recompile_Run.sql
+END
+M_Storage_CheckReserved.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/M_Storage_CheckReserved.sql
+END
+M_Storage_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/M_Storage_Check.sql
+END
+0_TempTable_Create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/0_TempTable_Create.sql
+END
+M_Transaction_Source.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/M_Transaction_Source.sql
+END
+C_PeriodControl_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_PeriodControl_Check.sql
+END
+AD_ReplicationTable_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_ReplicationTable_Check.sql
+END
+0_Add_New_Field.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/0_Add_New_Field.sql
+END
+C_CashLine_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_CashLine_Check.sql
+END
+AD_Task_Access.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Task_Access.sql
+END
+AD_Form_Access.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Form_Access.sql
+END
+C_TaxCategory_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_TaxCategory_Check.sql
+END
+AD_Element_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Element_Check.sql
+END
+C_Invoice_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_Invoice_Check.sql
+END
+1_Account_Defaults.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/1_Account_Defaults.sql
+END
+DBA_Indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/DBA_Indexes.sql
+END
+C_DocType_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_DocType_Check.sql
+END
+C_SalesRegion_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_SalesRegion_Check.sql
+END
+C_Order_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_Order_Check.sql
+END
+AD_Role_CreateAccess.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/AD_Role_CreateAccess.sql
+END
+C_Payment_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_Payment_Check.sql
+END
+C_BPartner_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_BPartner_Check.sql
+END
+C_ValidCombbination_Constraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/C_ValidCombbination_Constraints.sql
+END
+0_TempTable_Drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Maintenance/0_TempTable_Drop.sql
+END

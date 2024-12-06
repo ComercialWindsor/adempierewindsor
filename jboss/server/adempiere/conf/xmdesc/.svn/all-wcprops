@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc
+END
+AttributePersistenceService-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/AttributePersistenceService-xmbean.xml
+END
+NamingService-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/NamingService-xmbean.xml
+END
+org.jboss.deployment.MainDeployer-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/org.jboss.deployment.MainDeployer-xmbean.xml
+END
+org.jboss.deployment.SARDeployer-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/org.jboss.deployment.SARDeployer-xmbean.xml
+END
+JNDIView-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/JNDIView-xmbean.xml
+END
+NamingBean-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/NamingBean-xmbean.xml
+END
+Log4jService-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/Log4jService-xmbean.xml
+END
+TransactionManagerService-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/TransactionManagerService-xmbean.xml
+END
+ClientUserTransaction-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/ClientUserTransaction-xmbean.xml
+END
+org.jboss.deployment.JARDeployer-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/xmdesc/org.jboss.deployment.JARDeployer-xmbean.xml
+END

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/lib" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="base" />
+    <orderEntry type="module" module-name="client" />
+    <orderEntry type="module" module-name="tools" />
+    <orderEntry type="module" module-name="webStore" />
+    <orderEntry type="module" module-name="extend" />
+    <orderEntry type="module" module-name="install" />
+    <orderEntry type="module" module-name="jboss" />
+    <orderEntry type="module" module-name="serverApps" />
+    <orderEntry type="module" module-name="serverRoot" />
+    <orderEntry type="module" module-name="sqlj" />
+  </component>
+</module>

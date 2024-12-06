@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/jaxen.jar
+END
+jboss-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/jboss-common.jar
+END
+jboss-jmx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/jboss-jmx.jar
+END
+dom4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/dom4j.jar
+END
+log4j-boot.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/log4j-boot.jar
+END
+gnu-regexp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/gnu-regexp.jar
+END
+concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/concurrent.jar
+END
+jaxb-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/jaxb-impl.jar
+END
+jboss-xml-binding.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/jboss-xml-binding.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/commons-codec.jar
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/commons-httpclient.jar
+END
+jaxb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/jaxb-api.jar
+END
+namespace.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/namespace.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/commons-logging.jar
+END
+webdavlib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/webdavlib.jar
+END
+jboss-system.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/jboss-system.jar
+END
+getopt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/lib/getopt.jar
+END

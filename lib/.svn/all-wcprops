@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib
+END
+patches.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/patches.jar
+END
+adempiereAll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/adempiereAll.xml
+END
+customization.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/customization.jar
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/.project
+END
+earstructure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/earstructure.txt
+END
+zkpatches.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/zkpatches.jar
+END
+zkcustomization.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/zkcustomization.jar
+END
+posterita.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/posterita.xml
+END
+tomcatServerTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/tomcatServerTemplate.xml
+END
+CheckConflicts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/lib/CheckConflicts.sh
+END

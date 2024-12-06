@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions
+END
+C_PaymentTerm_DueDays.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_PaymentTerm_DueDays.sql
+END
+nextBusinessDay.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/nextBusinessDay.sql
+END
+C_Invoice_Paid.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Invoice_Paid.sql
+END
+C_Invoice_PaidToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Invoice_PaidToDate.sql
+END
+C_Currency_Convert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Currency_Convert.sql
+END
+C_PaymentTerm_DueDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_PaymentTerm_DueDate.sql
+END
+get_Sysconfig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/get_Sysconfig.sql
+END
+C_Currency_Round.SQL
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Currency_Round.SQL
+END
+BOM_Qty_ReservedASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_Qty_ReservedASI.sql
+END
+C_Currency_Rate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Currency_Rate.sql
+END
+nextIDFunc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/nextIDFunc.sql
+END
+C_BPartner_RemitLocation.SQL
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_BPartner_RemitLocation.SQL
+END
+BOM_Qty_Reserved.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_Qty_Reserved.sql
+END
+BOM_PriceStd.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_PriceStd.sql
+END
+BOM_Qty_Available.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_Qty_Available.sql
+END
+DBA_DisplayType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/DBA_DisplayType.sql
+END
+DBA_ConstraintCmd.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/DBA_ConstraintCmd.sql
+END
+BOM_Qty_Ordered.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_Qty_Ordered.sql
+END
+Acct_Balance.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/Acct_Balance.sql
+END
+C_Currency_Base.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Currency_Base.sql
+END
+C_Payment_Allocated.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Payment_Allocated.sql
+END
+BOM_PriceList.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_PriceList.sql
+END
+BOM_PriceLimit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_PriceLimit.sql
+END
+BOM_Qty_OnHandASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_Qty_OnHandASI.sql
+END
+BOM_Qty_OnHand.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_Qty_OnHand.sql
+END
+ProductAttribute.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/ProductAttribute.sql
+END
+C_Invoice_Discount.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Invoice_Discount.sql
+END
+BOM_Qty_AvailableASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_Qty_AvailableASI.sql
+END
+documentNo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/documentNo.sql
+END
+BOM_Qty_OrderedASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/BOM_Qty_OrderedASI.sql
+END
+C_Payment_Available.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Payment_Available.sql
+END
+C_PaymentTerm_Discount.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_PaymentTerm_Discount.sql
+END
+C_Invoice_Open.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Invoice_Open.sql
+END
+C_Invoice_OpenToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/functions/C_Invoice_OpenToDate.sql
+END

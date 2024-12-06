@@ -1,0 +1,83 @@
+10
+
+dir
+13592
+https://adempiere.svn.sourceforge.net/svnroot/adempiere/tags/adempiere360lts/db/ddlutils
+https://adempiere.svn.sourceforge.net/svnroot/adempiere
+
+
+
+2010-04-27T02:28:29.944463Z
+12159
+globalqss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f8025ce2-341d-0410-ac50-9b82273f5115
+
+model
+dir
+
+postgresql
+dir
+
+oracle
+dir
+
+lib
+dir
+
+data
+dir
+
+sequences
+dir
+
+readme.txt
+file
+
+
+
+
+2010-08-13T18:01:12.775811Z
+3181fac58f1aa11944e3bb63ae4c1561
+2006-12-28T09:57:50.897208Z
+1009
+hengsin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1013
+
+views
+dir
+

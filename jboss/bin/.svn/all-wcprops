@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin
+END
+run.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/run.jar
+END
+wstools.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/wstools.bat
+END
+shutdown.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/shutdown.bat
+END
+probe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/probe.sh
+END
+jboss_init_hpux.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/jboss_init_hpux.sh
+END
+wsrunclient.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/wsrunclient.bat
+END
+wstools.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/wstools.sh
+END
+shutdown.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/shutdown.sh
+END
+shutdown.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/shutdown.jar
+END
+wsrunclient.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/wsrunclient.sh
+END
+wsprovide.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/wsprovide.bat
+END
+run.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/run.conf
+END
+wsconsume.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/wsconsume.bat
+END
+classpath.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/classpath.sh
+END
+wsprovide.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/wsprovide.sh
+END
+wsconsume.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/wsconsume.sh
+END
+twiddle.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/twiddle.bat
+END
+jboss_init_redhat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/jboss_init_redhat.sh
+END
+twiddle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/twiddle.sh
+END
+twiddle.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/twiddle.jar
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/run.bat
+END
+jboss_init_suse.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/jboss_init_suse.sh
+END
+probe.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/probe.bat
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/bin/run.sh
+END

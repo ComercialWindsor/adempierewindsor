@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/.project
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/RUN_build.bat
+END
+Setup.launch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Setup.launch
+END
+.myumldata
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/.myumldata
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/RUN_build.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/build.xml
+END

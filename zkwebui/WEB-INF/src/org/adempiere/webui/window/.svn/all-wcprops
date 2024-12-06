@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window
+END
+WPAttributeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WPAttributeInstance.java
+END
+LoginWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/LoginWindow.java
+END
+AboutWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/AboutWindow.java
+END
+WTextEditorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WTextEditorDialog.java
+END
+ZkJRViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/ZkJRViewer.java
+END
+ZkReportViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/ZkReportViewer.java
+END
+WAutoCompleterCity.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WAutoCompleterCity.java
+END
+WAccountDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WAccountDialog.java
+END
+SimplePDFViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/SimplePDFViewer.java
+END
+FDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/FDialog.java
+END
+WPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WPreference.java
+END
+WRecordAccessDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WRecordAccessDialog.java
+END
+InfoSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/InfoSchedule.java
+END
+FindWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/FindWindow.java
+END
+WLocatorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WLocatorDialog.java
+END
+ADWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/ADWindow.java
+END
+ZkJRViewerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/ZkJRViewerProvider.java
+END
+ZkReportViewerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/ZkReportViewerProvider.java
+END
+WLocationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WLocationDialog.java
+END
+WAssignmentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WAssignmentDialog.java
+END
+WRecordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WRecordInfo.java
+END
+WFieldRecordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WFieldRecordInfo.java
+END
+WMediaDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WMediaDialog.java
+END
+WImageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WImageDialog.java
+END
+WTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WTask.java
+END
+WPAttributeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WPAttributeDialog.java
+END
+WEMailDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/window/WEMailDialog.java
+END

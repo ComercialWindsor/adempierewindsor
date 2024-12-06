@@ -1,0 +1,9 @@
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mergeinfo
+V 61
+/branches/qa/db/ddlutils/oracle/functions/documentNo.sql:8249
+END

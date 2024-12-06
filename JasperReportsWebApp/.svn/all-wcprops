@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/JasperReportsWebApp
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/JasperReportsWebApp/.classpath
+END
+packaging-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/JasperReportsWebApp/packaging-build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/JasperReportsWebApp/.project
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/JasperReportsWebApp/RUN_build.bat
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/JasperReportsWebApp/RUN_build.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/JasperReportsWebApp/build.xml
+END

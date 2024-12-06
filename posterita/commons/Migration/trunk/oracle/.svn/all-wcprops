@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/trunk/oracle
+END
+007_CashPayment.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/trunk/oracle/007_CashPayment.sql
+END
+003_AD_OrgInfo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/trunk/oracle/003_AD_OrgInfo.sql
+END
+002_ADMessage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/trunk/oracle/002_ADMessage.sql
+END
+006_PackSize_MProduct.sql
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/trunk/oracle/006_PackSize_MProduct.sql
+END
+005_MissingIDs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/trunk/oracle/005_MissingIDs.sql
+END
+004_AD_Changes for AD_OrgInfo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/trunk/oracle/004_AD_Changes%20for%20AD_OrgInfo.sql
+END

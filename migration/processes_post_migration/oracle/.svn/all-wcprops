@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/oracle
+END
+01_add_missing_Translations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/oracle/01_add_missing_Translations.sql
+END
+02_SynchronizeTerminology.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/oracle/02_SynchronizeTerminology.sql
+END
+04_role_access_update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/oracle/04_role_access_update.sql
+END
+03_update_sequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/oracle/03_update_sequences.sql
+END

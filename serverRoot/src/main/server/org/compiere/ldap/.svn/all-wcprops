@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/src/main/server/org/compiere/ldap
+END
+LdapResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/src/main/server/org/compiere/ldap/LdapResult.java
+END
+LdapProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/src/main/server/org/compiere/ldap/LdapProcessor.java
+END
+LdapMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/src/main/server/org/compiere/ldap/LdapMessage.java
+END
+LdapConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/src/main/server/org/compiere/ldap/LdapConnectionHandler.java
+END

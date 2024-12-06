@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions
+END
+C_PaymentTerm_DueDays.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_PaymentTerm_DueDays.sql
+END
+nextBusinessDay.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/nextBusinessDay.sql
+END
+C_Invoice_Paid.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Invoice_Paid.sql
+END
+nextID.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/nextID.sql
+END
+trunc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/trunc.sql
+END
+C_Invoice_PaidToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Invoice_PaidToDate.sql
+END
+C_Currency_Convert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Currency_Convert.sql
+END
+C_PaymentTerm_DueDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_PaymentTerm_DueDate.sql
+END
+charAt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/charAt.sql
+END
+get_Sysconfig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/get_Sysconfig.sql
+END
+BOM_Qty_ReservedASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_Qty_ReservedASI.sql
+END
+C_Currency_Rate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Currency_Rate.sql
+END
+nextIDFunc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/nextIDFunc.sql
+END
+BOM_Qty_Reserved.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_Qty_Reserved.sql
+END
+BOM_Qty_Available.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_Qty_Available.sql
+END
+BOM_PriceStd.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_PriceStd.sql
+END
+firstOf.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/firstOf.sql
+END
+BOM_Qty_Ordered.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_Qty_Ordered.sql
+END
+Acct_Balance.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/Acct_Balance.sql
+END
+altercolumn.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/altercolumn.sql
+END
+C_Currency_Base.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Currency_Base.sql
+END
+C_Payment_Allocated.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Payment_Allocated.sql
+END
+round.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/round.sql
+END
+BOM_PriceList.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_PriceList.sql
+END
+BOM_PriceLimit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_PriceLimit.sql
+END
+BOM_Qty_OnHandASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_Qty_OnHandASI.sql
+END
+INSTR.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/INSTR.sql
+END
+BOM_Qty_OnHand.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_Qty_OnHand.sql
+END
+C_Currency_Round.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Currency_Round.sql
+END
+ProductAttribute.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/ProductAttribute.sql
+END
+C_Invoice_Discount.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Invoice_Discount.sql
+END
+NextIDByYear.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/NextIDByYear.sql
+END
+BOM_Qty_AvailableASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_Qty_AvailableASI.sql
+END
+C_BPartner_RemitLocation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_BPartner_RemitLocation.sql
+END
+addDays.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/addDays.sql
+END
+daysBetween.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/daysBetween.sql
+END
+BOM_Qty_OrderedASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/BOM_Qty_OrderedASI.sql
+END
+documentNo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/documentNo.sql
+END
+getDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/getDate.sql
+END
+C_Payment_Available.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Payment_Available.sql
+END
+C_PaymentTerm_Discount.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_PaymentTerm_Discount.sql
+END
+C_Invoice_Open.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Invoice_Open.sql
+END
+C_Invoice_OpenToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/C_Invoice_OpenToDate.sql
+END
+Add_Months.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/functions/Add_Months.sql
+END

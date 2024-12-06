@@ -1,0 +1,749 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util
+END
+ContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ContextProvider.java
+END
+IniRes_ru.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_ru.java
+END
+DefaultContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/DefaultContextProvider.java
+END
+TrxRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/TrxRunnable.java
+END
+CCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CCache.java
+END
+DisplayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/DisplayType.java
+END
+CStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CStatement.java
+END
+ASyncWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ASyncWorker.java
+END
+IniRes_el.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_el.java
+END
+IniRes_zh_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_zh_CN.java
+END
+CStatementVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CStatementVO.java
+END
+WebUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/WebUser.java
+END
+AmtInWords_FR.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_FR.java
+END
+AmtInWords_HR.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_HR.java
+END
+IniRes_fr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_fr.java
+END
+IniRes_ml.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_ml.java
+END
+ExtensionFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ExtensionFileFilter.java
+END
+IniRes_hr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_hr.java
+END
+AmtInWords_IT.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_IT.java
+END
+FileUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/FileUpload.java
+END
+CLogFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CLogFile.java
+END
+IniRes_it.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_it.java
+END
+EMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/EMail.java
+END
+IniRes_sl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_sl.java
+END
+CLogErrorBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CLogErrorBuffer.java
+END
+CPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CPreparedStatement.java
+END
+AmtInWords_CA.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_CA.java
+END
+IniRes_ca.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_ca.java
+END
+HtmlCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/HtmlCode.java
+END
+AmtInWords_BG.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_BG.java
+END
+WebSessionCtx.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/WebSessionCtx.java
+END
+ZipUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ZipUtil.java
+END
+MiniBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/MiniBrowser.java
+END
+IniRes_bg.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_bg.java
+END
+ExecuteResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ExecuteResult.java
+END
+OutputParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/OutputParameter.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Task.java
+END
+DBException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/DBException.java
+END
+WebLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/WebLogin.java
+END
+CLogConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CLogConsole.java
+END
+SecureInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/SecureInterface.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Login.java
+END
+AdempiereSystemError.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AdempiereSystemError.java
+END
+Evaluatee.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Evaluatee.java
+END
+NullParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/NullParameter.java
+END
+WebUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/WebUtil.java
+END
+CCachedRowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CCachedRowSet.java
+END
+Ini.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Ini.java
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Language.java
+END
+IniRes_no.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_no.java
+END
+Msg.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Msg.java
+END
+AmtInWords.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords.java
+END
+IniRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes.java
+END
+IniRes_ro.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_ro.java
+END
+logClient.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/logClient.properties
+END
+CLogMgt.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CLogMgt.java
+END
+NamePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/NamePair.java
+END
+TimeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/TimeUtil.java
+END
+Trace.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Trace.java
+END
+IniDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniDialog.java
+END
+WebDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/WebDoc.java
+END
+MSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/MSort.java
+END
+CLogFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CLogFormatter.java
+END
+AmtInWords_EN.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_EN.java
+END
+IniRes_ar.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_ar.java
+END
+CacheMgt.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CacheMgt.java
+END
+ASyncProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ASyncProcess.java
+END
+AmtInWords_IN.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_IN.java
+END
+ByteArrayDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ByteArrayDataSource.java
+END
+SavepointVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/SavepointVO.java
+END
+Trx.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Trx.java
+END
+EnvLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/EnvLoader.java
+END
+IniRes_in.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_in.java
+END
+EMailAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/EMailAuthenticator.java
+END
+CLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CLogger.java
+END
+AmtInWords_PL.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_PL.java
+END
+AmtInWords_TH.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_TH.java
+END
+IniRes_nl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_nl.java
+END
+logServer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/logServer.properties
+END
+IniRes_pl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_pl.java
+END
+IniRes_th.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_th.java
+END
+DB.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/DB.java
+END
+Secure.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Secure.java
+END
+WebEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/WebEnv.java
+END
+EMailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/EMailTest.java
+END
+CCallableStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CCallableStatement.java
+END
+Env.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Env.java
+END
+ConnectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ConnectTest.java
+END
+ValueNamePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ValueNamePair.java
+END
+AmtInWords_PT.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_PT.java
+END
+CLogFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CLogFilter.java
+END
+IniRes_zh.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_zh.java
+END
+Splash.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Splash.java
+END
+AmtInWords_SR.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_SR.java
+END
+CLogMgtLog4J.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CLogMgtLog4J.java
+END
+IniRes_pt.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_pt.java
+END
+IniRes_da.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_da.java
+END
+AmtInWords_FA.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_FA.java
+END
+IniRes_sr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_sr.java
+END
+CallableResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CallableResult.java
+END
+IniRes_fa.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_fa.java
+END
+CMemoryUsage.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CMemoryUsage.java
+END
+IniRes_de.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_de.java
+END
+IniRes_sv.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_sv.java
+END
+Evaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Evaluator.java
+END
+IniRes_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_ja.java
+END
+AdempiereUserError.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AdempiereUserError.java
+END
+KeyNamePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/KeyNamePair.java
+END
+ReplenishInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/ReplenishInterface.java
+END
+SecureEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/SecureEngine.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Util.java
+END
+AmtInWords_ES.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_ES.java
+END
+IniRes_es.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_es.java
+END
+AmtInWords_HU.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_HU.java
+END
+CacheInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/CacheInterface.java
+END
+Queue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/Queue.java
+END
+AmtInWords_VI.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_VI.java
+END
+IniRes_hu.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_hu.java
+END
+AmtInWords_MS.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/AmtInWords_MS.java
+END
+IniRes_vi.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_vi.java
+END
+IniRes_ms.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/IniRes_ms.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/MimeType.java
+END
+WebInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/WebInfo.java
+END
+StoredHtmlSrc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/util/StoredHtmlSrc.java
+END

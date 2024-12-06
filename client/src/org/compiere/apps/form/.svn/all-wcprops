@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form
+END
+Merge.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/Merge.java
+END
+TreeMaintenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/TreeMaintenance.java
+END
+ArchiveViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/ArchiveViewer.java
+END
+PayPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/PayPrint.java
+END
+VAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VAllocation.java
+END
+FormFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/FormFrame.java
+END
+VPaySelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VPaySelect.java
+END
+VGenPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VGenPanel.java
+END
+VCharge.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VCharge.java
+END
+Archive.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/Archive.java
+END
+FormPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/FormPanel.java
+END
+VMerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VMerge.java
+END
+VSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VSetup.java
+END
+InvoiceGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/InvoiceGen.java
+END
+VTreeMaintenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VTreeMaintenance.java
+END
+InOutGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/InOutGen.java
+END
+VPayPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VPayPrint.java
+END
+Match.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/Match.java
+END
+TrxMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/TrxMaterial.java
+END
+GenForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/GenForm.java
+END
+VAttributeGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VAttributeGrid.java
+END
+VFileImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VFileImport.java
+END
+VInvoiceGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VInvoiceGen.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/package.html
+END
+VInOutGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VInOutGen.java
+END
+VTrxMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VTrxMaterial.java
+END
+VMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VMatch.java
+END
+VSQLProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VSQLProcess.java
+END
+Allocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/Allocation.java
+END
+VBOMDrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/VBOMDrop.java
+END
+Charge.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/Charge.java
+END
+PaySelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/form/PaySelect.java
+END

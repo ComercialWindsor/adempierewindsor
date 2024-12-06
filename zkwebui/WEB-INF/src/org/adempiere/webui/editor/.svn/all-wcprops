@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor
+END
+WPasswordEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WPasswordEditor.java
+END
+WUrlEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WUrlEditor.java
+END
+WLocatorEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WLocatorEditor.java
+END
+WFileDirectoryEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WFileDirectoryEditor.java
+END
+WSearchEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WSearchEditor.java
+END
+WStringEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WStringEditor.java
+END
+WLocationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WLocationEditor.java
+END
+WAssignmentEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WAssignmentEditor.java
+END
+WButtonEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WButtonEditor.java
+END
+WDateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WDateEditor.java
+END
+WebEditorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WebEditorFactory.java
+END
+WEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WEditor.java
+END
+WFilenameEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WFilenameEditor.java
+END
+WImageEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WImageEditor.java
+END
+WPAttributeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WPAttributeEditor.java
+END
+WBinaryEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WBinaryEditor.java
+END
+WTableDirEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WTableDirEditor.java
+END
+WNumberEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WNumberEditor.java
+END
+WEditorPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WEditorPopupMenu.java
+END
+IZoomableEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/IZoomableEditor.java
+END
+WDatetimeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WDatetimeEditor.java
+END
+WAccountEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WAccountEditor.java
+END
+WYesNoEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WYesNoEditor.java
+END
+WTimeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WTimeEditor.java
+END
+WUnknownEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WUnknownEditor.java
+END

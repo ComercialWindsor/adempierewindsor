@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/glassfishfacet"/>
+	<lib name="appserv-admin.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/glassfishfacet/lib/appserv-admin.jar!/"/>
+	</lib>
+	<lib name="appserv-deployment-client.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/glassfishfacet/lib/appserv-deployment-client.jar!/"/>
+	</lib>
+	<lib name="appserv-ext.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/glassfishfacet/lib/appserv-ext.jar!/"/>
+	</lib>
+	<lib name="appserv-rt.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/glassfishfacet/lib/appserv-rt.jar!/"/>
+	</lib>
+	<lib name="servlet-api.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/jboss/client/servlet-api.jar!/"/>
+	</lib>
+</component>

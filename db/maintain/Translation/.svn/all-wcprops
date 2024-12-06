@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Translation
+END
+DeleteLanguage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Translation/DeleteLanguage.sql
+END
+Translation_Copy.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Translation/Translation_Copy.sql
+END
+Dummy_Translation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Translation/Dummy_Translation.sql
+END
+Translation_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Translation/Translation_Check.sql
+END
+Translation-Status.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Translation/Translation-Status.sql
+END

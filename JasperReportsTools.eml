@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/JasperReportsTools"/>
+	<lib name="commons-beanutils-1.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/JasperReportsTools/lib/commons-beanutils-1.7.jar!/"/>
+	</lib>
+	<lib name="commons-digester-1.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/JasperReportsTools/lib/commons-digester-1.7.jar!/"/>
+	</lib>
+	<lib name="iReport.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/JasperReportsTools/lib/iReport.jar!/"/>
+	</lib>
+	<lib name="jasperreports-3.7.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/JasperReportsTools/lib/jasperreports-3.7.3.jar!/"/>
+	</lib>
+	<lib name="jfreechart-1.0.13.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/JasperReportsTools/lib/jfreechart-1.0.13.jar!/"/>
+	</lib>
+</component>

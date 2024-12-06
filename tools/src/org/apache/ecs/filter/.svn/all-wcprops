@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/filter
+END
+NullFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/filter/NullFilter.java
+END
+WordFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/filter/WordFilter.java
+END
+CharacterFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/filter/CharacterFilter.java
+END
+StringFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/filter/StringFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/filter/package.html
+END

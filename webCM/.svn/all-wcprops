@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/.classpath
+END
+.xdoclet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/.xdoclet
+END
+.packaging
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/.packaging
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/.project
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/RUN_build.bat
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/RUN_build.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/build.xml
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/documentation.bat
+END

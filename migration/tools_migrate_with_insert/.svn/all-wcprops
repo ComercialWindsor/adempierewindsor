@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/tools_migrate_with_insert
+END
+06_post_migrate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/tools_migrate_with_insert/06_post_migrate.sql
+END
+04_InsertMigr.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/tools_migrate_with_insert/04_InsertMigr.sql
+END
+02_FromCompiere252dToSource.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/tools_migrate_with_insert/02_FromCompiere252dToSource.sql
+END
+03_disconstraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/tools_migrate_with_insert/03_disconstraints.sql
+END
+01_pre_migrate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/tools_migrate_with_insert/01_pre_migrate.sql
+END
+05_enaconstraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/tools_migrate_with_insert/05_enaconstraints.sql
+END
+00_GENERATE_INSERT_AS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/tools_migrate_with_insert/00_GENERATE_INSERT_AS.sql
+END

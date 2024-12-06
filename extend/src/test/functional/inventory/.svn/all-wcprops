@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/inventory
+END
+CSVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/inventory/CSVFactory.java
+END
+MMDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/inventory/MMDocument.java
+END
+InventoryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/inventory/InventoryUtil.java
+END
+InventoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/inventory/InventoryTest.java
+END
+MMScenario.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/inventory/MMScenario.java
+END

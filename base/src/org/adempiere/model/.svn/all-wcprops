@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model
+END
+MPromotionDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/MPromotionDistribution.java
+END
+MPromotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/MPromotion.java
+END
+CalloutRMA.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/CalloutRMA.java
+END
+MPromotionReward.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/MPromotionReward.java
+END
+IZoomProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/IZoomProvider.java
+END
+ExportModelValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/ExportModelValidator.java
+END
+MPromotionLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/MPromotionLine.java
+END
+GenericPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/GenericPO.java
+END
+GridTabWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/GridTabWrapper.java
+END
+PromotionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/PromotionRule.java
+END
+POWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/POWrapper.java
+END
+MPromotionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/MPromotionGroup.java
+END
+ImportValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/ImportValidator.java
+END
+MPromotionPreCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/MPromotionPreCondition.java
+END
+MPromotionGroupLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/MPromotionGroupLine.java
+END
+ZoomInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/ZoomInfoFactory.java
+END
+CalloutBPartnerLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/CalloutBPartnerLocation.java
+END
+MRelationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/MRelationType.java
+END
+GenericZoomProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/GenericZoomProvider.java
+END
+PromotionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/model/PromotionValidator.java
+END

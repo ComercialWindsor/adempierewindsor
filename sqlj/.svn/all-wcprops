@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/.project
+END
+SQL J.epj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/SQL%20J.epj
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/RUN_build.bat
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/RUN_build.sh
+END
+compile.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/compile.bat
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/build.xml
+END

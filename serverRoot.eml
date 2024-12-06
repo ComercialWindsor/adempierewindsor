@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/serverRoot"/>
+	<lib name="jbossall-client.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/jboss/client/jbossall-client.jar!/"/>
+	</lib>
+	<lib name="activemq-core-5.0.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/activemq-core-5.0.0.jar!/"/>
+	</lib>
+	<lib name="cron4j-2.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/cron4j-2.2.1.jar!/"/>
+	</lib>
+</component>

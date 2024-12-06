@@ -1,0 +1,64 @@
+10
+
+dir
+13592
+https://adempiere.svn.sourceforge.net/svnroot/adempiere/tags/adempiere360lts/base/src/org/adempiere
+https://adempiere.svn.sourceforge.net/svnroot/adempiere
+
+
+
+2010-06-14T20:12:13.144992Z
+12572
+globalqss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f8025ce2-341d-0410-ac50-9b82273f5115
+
+model
+dir
+
+exceptions
+dir
+
+impexp
+dir
+
+plaf
+dir
+
+apps
+dir
+
+as
+dir
+
+pipo
+dir
+
+common
+dir
+
+pdf
+dir
+
+print
+dir
+
+util
+dir
+
+process
+dir
+

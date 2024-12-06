@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/zkwebui"/>
+	<lib name="zk.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/zkwebui/WEB-INF/lib/zk-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zk-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zk.jar!/"/>
+	</lib>
+	<lib name="zcommon.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/zkwebui/WEB-INF/lib/zcommon-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zcommon-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zcommon.jar!/"/>
+	</lib>
+	<lib name="zul.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/zkwebui/WEB-INF/lib/zul-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zul-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zul.jar!/"/>
+	</lib>
+	<lib name="junit.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/junit.jar!/"/>
+	</lib>
+	<lib name="keylistener.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/keylistener.jar!/"/>
+	</lib>
+	<lib name="xercesImpl.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/xercesImpl.jar!/"/>
+	</lib>
+	<lib name="zkmax.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/zkwebui/WEB-INF/lib/zkmax-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zkmax-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zkmax.jar!/"/>
+	</lib>
+	<lib name="zkex.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/zkwebui/WEB-INF/lib/zkex-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zkex-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zkex.jar!/"/>
+	</lib>
+	<lib name="zkplus.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/zkwebui/WEB-INF/lib/zkplus-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zkplus-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zkplus.jar!/"/>
+	</lib>
+	<lib name="zhtml.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/zkwebui/WEB-INF/lib/zhtml-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zhtml-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zhtml.jar!/"/>
+	</lib>
+	<lib name="timelinez.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/zkwebui/WEB-INF/lib/timelinez-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/timelinez-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/timelinez.jar!/"/>
+	</lib>
+	<lib name="zweb.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/zkwebui/WEB-INF/lib/zweb-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zweb-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/zweb.jar!/"/>
+	</lib>
+	<lib name="javaee.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/javaee.jar!/"/>
+	</lib>
+	<lib name="cglib.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/cglib.jar!/"/>
+	</lib>
+	<lib name="fckez.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/zkwebui/WEB-INF/lib/fckez.jar!/"/>
+	</lib>
+	<lib name="jcommon-1.0.16.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jcommon-1.0.16.jar!/"/>
+	</lib>
+	<lib name="jfreechart-1.0.13.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jfreechart-1.0.13.jar!/"/>
+	</lib>
+</component>

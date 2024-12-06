@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db
+END
+UpdateAdempiere.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/UpdateAdempiere.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/.project
+END
+CopyRight.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/CopyRight.sql
+END
+UpdateReference.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/UpdateReference.bat
+END

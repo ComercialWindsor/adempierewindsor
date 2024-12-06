@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler
+END
+TableElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/TableElementHandler.java
+END
+FieldGroupElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/FieldGroupElementHandler.java
+END
+UserRoleElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/UserRoleElementHandler.java
+END
+RoleElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/RoleElementHandler.java
+END
+TaskElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/TaskElementHandler.java
+END
+FormElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/FormElementHandler.java
+END
+MenuElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/MenuElementHandler.java
+END
+PrintFormatElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/PrintFormatElementHandler.java
+END
+ReportViewElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ReportViewElementHandler.java
+END
+ReferenceTableElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ReferenceTableElementHandler.java
+END
+ModelValidatorElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ModelValidatorElementHandler.java
+END
+TabElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/TabElementHandler.java
+END
+PreferenceElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/PreferenceElementHandler.java
+END
+EntityTypeElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/EntityTypeElementHandler.java
+END
+AdElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/AdElementHandler.java
+END
+ImpFormatRowElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ImpFormatRowElementHandler.java
+END
+WindowAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/WindowAccessElementHandler.java
+END
+ReferenceListElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ReferenceListElementHandler.java
+END
+WorkflowAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/WorkflowAccessElementHandler.java
+END
+ColumnElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ColumnElementHandler.java
+END
+CommonTranslationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/CommonTranslationHandler.java
+END
+ReferenceElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ReferenceElementHandler.java
+END
+ImpFormatElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ImpFormatElementHandler.java
+END
+ProcessAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ProcessAccessElementHandler.java
+END
+CodeSnipitElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/CodeSnipitElementHandler.java
+END
+DistFileElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/DistFileElementHandler.java
+END
+ReportViewColElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ReportViewColElementHandler.java
+END
+WindowElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/WindowElementHandler.java
+END
+OrgRoleElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/OrgRoleElementHandler.java
+END
+DataElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/DataElementHandler.java
+END
+WorkflowElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/WorkflowElementHandler.java
+END
+ProcessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ProcessElementHandler.java
+END
+WorkflowNodeNextElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/WorkflowNodeNextElementHandler.java
+END
+WorkflowNodeElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/WorkflowNodeElementHandler.java
+END
+ProcessParaElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/ProcessParaElementHandler.java
+END
+FieldElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/FieldElementHandler.java
+END
+SQLStatementElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/SQLStatementElementHandler.java
+END
+PrintPaperElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/PrintPaperElementHandler.java
+END
+PrintFormatItemElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/PrintFormatItemElementHandler.java
+END
+MessageElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/MessageElementHandler.java
+END
+TaskAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/TaskAccessElementHandler.java
+END
+DynValRuleElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/DynValRuleElementHandler.java
+END
+FormAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/FormAccessElementHandler.java
+END
+WorkflowNodeNextConditionElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/adempiere/pipo/handler/WorkflowNodeNextConditionElementHandler.java
+END

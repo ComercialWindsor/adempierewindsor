@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel
+END
+ChatPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ChatPanel.java
+END
+ITabOnCloseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ITabOnCloseHandler.java
+END
+IADTabpanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/IADTabpanel.java
+END
+InfoAssignmentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoAssignmentPanel.java
+END
+InfoOrderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoOrderPanel.java
+END
+HeaderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/HeaderPanel.java
+END
+InfoPaymentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoPaymentPanel.java
+END
+InfoGeneralPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoGeneralPanel.java
+END
+InfoBPartnerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoBPartnerPanel.java
+END
+RequestNoticePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/RequestNoticePanel.java
+END
+WDocActionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/WDocActionPanel.java
+END
+WAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/WAttachment.java
+END
+RolePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/RolePanel.java
+END
+ADSortTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ADSortTab.java
+END
+ADTreePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ADTreePanel.java
+END
+StatusBarPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/StatusBarPanel.java
+END
+ADTabpanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ADTabpanel.java
+END
+ADWindowPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ADWindowPanel.java
+END
+WOnlyCurrentDays.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/WOnlyCurrentDays.java
+END
+CustomForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/CustomForm.java
+END
+UserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/UserPanel.java
+END
+InfoPAttributeInstancePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoPAttributeInstancePanel.java
+END
+SidePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/SidePanel.java
+END
+TreeSearchPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/TreeSearchPanel.java
+END
+ADForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ADForm.java
+END
+InfoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoPanel.java
+END
+InfoAssetPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoAssetPanel.java
+END
+InfoProductPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoProductPanel.java
+END
+InvoiceHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InvoiceHistory.java
+END
+FooterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/FooterPanel.java
+END
+InfoPAttributePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoPAttributePanel.java
+END
+LogoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/LogoPanel.java
+END
+AbstractADWindowPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/AbstractADWindowPanel.java
+END
+IFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/IFormController.java
+END
+InfoCashLinePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoCashLinePanel.java
+END
+WSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/WSchedule.java
+END
+MenuPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/MenuPanel.java
+END
+ConfigurationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ConfigurationPanel.java
+END
+LoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/LoginPanel.java
+END
+InfoInvoicePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoInvoicePanel.java
+END
+LogoutPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/LogoutPanel.java
+END
+InfoInOutPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoInOutPanel.java
+END

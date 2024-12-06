@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/History
+END
+db_cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/History/db_cleanup.sql
+END
+db_changes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/History/db_changes.sql
+END
+db_generate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/History/db_generate.sql
+END

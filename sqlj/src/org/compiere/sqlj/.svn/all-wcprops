@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/Product.java
+END
+Compiere.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/Compiere.java
+END
+Manufacturing.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/Manufacturing.java
+END
+PaymentTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/PaymentTerm.java
+END
+Currency.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/Currency.java
+END
+Adempiere.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/Adempiere.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/Account.java
+END
+Invoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/Invoice.java
+END
+BPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/BPartner.java
+END
+Payment.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/sqlj/src/org/compiere/sqlj/Payment.java
+END

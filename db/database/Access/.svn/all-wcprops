@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access
+END
+Context_Body.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/Context_Body.sql
+END
+Context_Test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/Context_Test.sql
+END
+Policy_Drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/Policy_Drop.sql
+END
+Policy_Add.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/Policy_Add.sql
+END
+CreateContext.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/CreateContext.sql
+END
+access.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/access.bat
+END
+Privileges.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/Privileges.sql
+END
+Wrap.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/Wrap.sql
+END
+context_header.plb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/context_header.plb
+END
+Context_Header.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/Context_Header.sql
+END
+Context_List.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/Context_List.sql
+END
+context_body.plb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/database/Access/context_body.plb
+END

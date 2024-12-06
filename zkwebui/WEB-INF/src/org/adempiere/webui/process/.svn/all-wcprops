@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/process
+END
+WProcessInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/process/WProcessInfo.java
+END
+CacheReset.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/process/CacheReset.java
+END
+InvoicePrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/zkwebui/WEB-INF/src/org/adempiere/webui/process/InvoicePrint.java
+END

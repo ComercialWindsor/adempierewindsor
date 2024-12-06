@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print
+END
+DataEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/DataEngine.java
+END
+PrintDataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/PrintDataElement.java
+END
+MPrintFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/MPrintFont.java
+END
+MPrintPaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/MPrintPaper.java
+END
+MPrintFormatItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/MPrintFormatItem.java
+END
+ReportEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/ReportEngine.java
+END
+PrintDataGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/PrintDataGroup.java
+END
+PrintFormatUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/PrintFormatUtil.java
+END
+PrintDataColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/PrintDataColumn.java
+END
+ArchiveEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/ArchiveEngine.java
+END
+MPrintColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/MPrintColor.java
+END
+IHTMLExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/IHTMLExtension.java
+END
+CPaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/CPaper.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/View.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/package.html
+END
+MPrintFormatProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/MPrintFormatProcess.java
+END
+MPrintFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/MPrintFormat.java
+END
+PrintDataHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/PrintDataHandler.java
+END
+PrintData.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/PrintData.java
+END
+CPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/CPrinter.java
+END
+MPrintTableFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/MPrintTableFormat.java
+END
+PrintUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/PrintUtil.java
+END
+MPrintGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/MPrintGraph.java
+END
+PrintDataFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/print/PrintDataFunction.java
+END

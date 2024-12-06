@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA
+END
+I_CustomColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/I_CustomColumn.java
+END
+Conventions.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/Conventions.java
+END
+Depreciation.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/Depreciation.java
+END
+ImportAsset.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/ImportAsset.java
+END
+CalloutFA.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/CalloutFA.java
+END
+AssetDisposed.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/AssetDisposed.java
+END
+BuildDepForecastFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/BuildDepForecastFile.java
+END
+CreateInvoicedAsset.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/CreateInvoicedAsset.java
+END
+AssetTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/AssetTransfer.java
+END
+DepreciationAdj.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/DepreciationAdj.java
+END
+CreateGLAsset.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/CreateGLAsset.java
+END
+BuildDepWorkFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/BuildDepWorkFile.java
+END
+AssetSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/AssetSplit.java
+END
+AssetRevalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/AssetRevalEntry.java
+END
+ImportFAJournal2.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/FA/ImportFAJournal2.java
+END

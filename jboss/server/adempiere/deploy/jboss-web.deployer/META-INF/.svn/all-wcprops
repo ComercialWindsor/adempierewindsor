@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-web.deployer/META-INF
+END
+webserver-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-web.deployer/META-INF/webserver-xmbean.xml
+END
+jboss-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-web.deployer/META-INF/jboss-service.xml
+END

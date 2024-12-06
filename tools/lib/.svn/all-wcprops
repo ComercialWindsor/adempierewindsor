@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib
+END
+ojdbc6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/ojdbc6.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/c3p0-0.9.1.2.jar
+END
+SoftwareLicenses.xls
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/SoftwareLicenses.xls
+END
+jgraph.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jgraph.jar
+END
+jython.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jython.jar
+END
+script-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/script-api.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jstl.jar
+END
+ant-commons-net.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/ant-commons-net.jar
+END
+libraries.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/libraries.txt
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/log4j.jar
+END
+cglib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/cglib.jar
+END
+ant-launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/ant-launcher.jar
+END
+payflow.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/payflow.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/ant.jar
+END
+jcommon-1.0.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jcommon-1.0.16.jar
+END
+Verisign.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/Verisign.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/commons-codec.jar
+END
+groovy-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/groovy-engine.jar
+END
+logkit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/logkit.jar
+END
+jfreechart-1.0.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jfreechart-1.0.13.jar
+END
+javaee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/javaee.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/servlet-api.jar
+END
+xjavadoc-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/xjavadoc-1.1.jar
+END
+cron4j-2.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/cron4j-2.2.1.jar
+END
+activemq-core-5.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/activemq-core-5.0.0.jar
+END
+iText-2.1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/iText-2.1.7.jar
+END
+bsh-2.0b5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/bsh-2.0b5.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/standard.jar
+END
+copyLibraries.bat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/copyLibraries.bat
+END
+miglayout-3.7.1-swing.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/miglayout-3.7.1-swing.jar
+END
+postgresql.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/postgresql.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/xercesImpl.jar
+END
+poi-3.0.1-FINAL-20070705.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/poi-3.0.1-FINAL-20070705.jar
+END
+jython-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jython-engine.jar
+END
+bsh-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/bsh-engine.jar
+END
+c3p0-oracle-thin-extras-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/c3p0-oracle-thin-extras-0.9.1.2.jar
+END
+swingx-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/swingx-1.6.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/mail.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/commons-collections-3.1.jar
+END
+looks-2.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/looks-2.0.4.jar
+END
+jpayment.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jpayment.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/junit.jar
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/xml-apis.jar
+END
+groovy-all-1.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/groovy-all-1.5.1.jar
+END
+commons-net-1.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/commons-net-1.4.0.jar
+END
+jpedal.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jpedal.jar
+END
+ant-contrib-1.0b1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/ant-contrib-1.0b1.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/commons-logging.jar
+END
+wizard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/wizard.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jsp-api.jar
+END
+jnlp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/jnlp.jar
+END
+barbecue-1.5-beta1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/lib/barbecue-1.5-beta1.jar
+END

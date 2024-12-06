@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/adempiere/!svn/ver/13237/tags/adempiere360lts
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/.classpath
+END
+.hgignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/.hgignore
+END
+adempiere.psf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/adempiere.psf
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/adempiere/!svn/ver/12702/tags/adempiere360lts/.project
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/license.html
+END
+testTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/testTemplate.properties
+END
+COMMITTERS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/COMMITTERS
+END

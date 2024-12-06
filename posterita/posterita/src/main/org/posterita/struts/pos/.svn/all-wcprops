@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos
+END
+POSAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSAction.java
+END
+DunningAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/DunningAction.java
+END
+GoodsReceiveNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/GoodsReceiveNoteAction.java
+END
+CreditOrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/CreditOrderAction.java
+END
+SearchProductAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/SearchProductAction.java
+END
+InventoryCartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/InventoryCartAction.java
+END
+POSAttributesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSAttributesAction.java
+END
+PartialPOSOrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/PartialPOSOrderAction.java
+END
+PaymentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/PaymentAction.java
+END
+CashAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/CashAction.java
+END
+DocumentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/DocumentAction.java
+END
+CommissionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/CommissionAction.java
+END
+POSDispatchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSDispatchAction.java
+END
+BlackListedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/BlackListedAction.java
+END
+POSRoleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSRoleAction.java
+END
+CustomPOSReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/CustomPOSReportAction.java
+END
+EditBulkProductFromFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/EditBulkProductFromFileAction.java
+END
+FastMovingItemReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/FastMovingItemReportAction.java
+END
+SearchPOSProductAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/SearchPOSProductAction.java
+END
+BpartnerInfoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/BpartnerInfoAction.java
+END
+CashBookAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/CashBookAction.java
+END
+TaxAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/TaxAction.java
+END
+POSOrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSOrderAction.java
+END
+POSGoodsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSGoodsAction.java
+END
+InventoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/InventoryAction.java
+END
+ImportPOSProductAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/ImportPOSProductAction.java
+END
+CustomerReturnOrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/CustomerReturnOrderAction.java
+END
+PriceListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/PriceListAction.java
+END
+BarcodeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/BarcodeAction.java
+END
+UOMAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/UOMAction.java
+END
+GoodsReturnNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/GoodsReturnNoteAction.java
+END
+POSProductAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSProductAction.java
+END
+POSStockAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSStockAction.java
+END
+PaymentTermAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/PaymentTermAction.java
+END
+SalesAnalysisReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/SalesAnalysisReportAction.java
+END
+GetReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/GetReportAction.java
+END
+TerminalAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/TerminalAction.java
+END
+POSInfoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSInfoAction.java
+END
+SlowMovingItemReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/SlowMovingItemReportAction.java
+END
+POSPriceListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSPriceListAction.java
+END
+PostingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/PostingAction.java
+END
+SearchVendorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/SearchVendorAction.java
+END
+SearchProductsInStockAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/SearchProductsInStockAction.java
+END
+POSSalesReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSSalesReportAction.java
+END
+SearchCustomerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/SearchCustomerAction.java
+END
+CurrencyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/CurrencyAction.java
+END
+StockMovementReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/StockMovementReportAction.java
+END
+ImportCustomerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/ImportCustomerAction.java
+END
+POSReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSReportAction.java
+END
+VendorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/VendorAction.java
+END
+POSUserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/struts/pos/POSUserAction.java
+END

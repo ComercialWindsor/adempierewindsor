@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures
+END
+DBA_Recompile.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/DBA_Recompile.sql
+END
+Cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/Cleanup.sql
+END
+nextID.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/nextID.sql
+END
+C_Order_DrillDown.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/C_Order_DrillDown.sql
+END
+DBA_Cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/DBA_Cleanup.sql
+END
+AD_Column_Sync.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/AD_Column_Sync.sql
+END
+T_InventoryValue_Create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/T_InventoryValue_Create.sql
+END
+AD_Sequence_Doc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/AD_Sequence_Doc.sql
+END
+DBA_AfterImport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/DBA_AfterImport.sql
+END
+AD_Sequence_DocType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/AD_Sequence_DocType.sql
+END
+NextIDByYear.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/NextIDByYear.sql
+END
+AD_Syncronize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/AD_Syncronize.sql
+END
+AD_Sequence_Next.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/AD_Sequence_Next.sql
+END
+M_Product_Delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/M_Product_Delete.sql
+END
+Fact_Acct_Balance_Update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/oracle/procedures/Fact_Acct_Balance_Update.sql
+END

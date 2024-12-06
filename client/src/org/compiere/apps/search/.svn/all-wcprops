@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search
+END
+InfoPAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoPAttribute.java
+END
+InfoCashLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoCashLine.java
+END
+VSchedulePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/VSchedulePanel.java
+END
+FindValueRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/FindValueRenderer.java
+END
+InfoInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoInvoice.java
+END
+InfoSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoSchedule.java
+END
+Info_Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/Info_Column.java
+END
+PAttributeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/PAttributeInstance.java
+END
+InfoInOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoInOut.java
+END
+InvoiceHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InvoiceHistory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/package.html
+END
+Find.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/Find.java
+END
+VScheduleTimePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/VScheduleTimePanel.java
+END
+VSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/VSchedule.java
+END
+InfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoFactory.java
+END
+InfoAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoAssignment.java
+END
+FindValueEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/FindValueEditor.java
+END
+InfoOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoOrder.java
+END
+FindCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/FindCellEditor.java
+END
+InfoPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoPayment.java
+END
+InfoGeneral.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoGeneral.java
+END
+InfoBPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoBPartner.java
+END
+InfoAsset.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoAsset.java
+END
+Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/Info.java
+END
+InfoProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/client/src/org/compiere/apps/search/InfoProduct.java
+END

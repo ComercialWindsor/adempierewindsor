@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 65
+build
+webApp.ear
+webApp.war
+webAppEJB.jar
+webEJB-client.jar
+
+END

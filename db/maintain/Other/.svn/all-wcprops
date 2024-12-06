@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other
+END
+Java.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/Java.sql
+END
+RenameColumn.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/RenameColumn.sql
+END
+Apps_Tuning.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/Apps_Tuning.sql
+END
+UpdateWith2Tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/UpdateWith2Tables.sql
+END
+Fix_CashBook.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/Fix_CashBook.sql
+END
+cursors.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/cursors.sql
+END
+Performance.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/Performance.sql
+END
+History.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/History.sql
+END
+UpdateFK.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/UpdateFK.sql
+END
+Import_Overwrites.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/Import_Overwrites.sql
+END
+C_Order_Ovr.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/C_Order_Ovr.sql
+END
+Java_Drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/Java_Drop.sql
+END
+DocStatusAction.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/DocStatusAction.sql
+END
+UserErrors.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/UserErrors.sql
+END
+Java_List.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/Java_List.sql
+END
+Monitor_Index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/Monitor_Index.sql
+END
+RenameTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/RenameTable.sql
+END
+dbms_job.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/maintain/Other/dbms_job.sql
+END

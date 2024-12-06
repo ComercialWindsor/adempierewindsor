@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE
+END
+DBExportFull.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/DBExportFull.bat
+END
+01_add_missing_Translations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/01_add_missing_Translations.sql
+END
+DBExportFull.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/DBExportFull.sh
+END
+Stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/Stop.bat
+END
+ImportAdempiere.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/ImportAdempiere.bat
+END
+DBExport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/DBExport.bat
+END
+ImportReference.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/ImportReference.bat
+END
+DBRestore.bat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/DBRestore.bat
+END
+Stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/Stop.sh
+END
+ImportAdempiere.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/ImportAdempiere.sh
+END
+DBExport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/DBExport.sh
+END
+Start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/Start.bat
+END
+ImportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/ImportReference.sh
+END
+DBRestore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/DBRestore.sh
+END
+Start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/Start.sh
+END
+PostMigration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/PostMigration.sh
+END
+ExportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/oracleXE/ExportReference.sh
+END

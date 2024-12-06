@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/storage
+END
+Hash.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/storage/Hash.java
+END
+NoSuchObjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/storage/NoSuchObjectException.java
+END
+Array.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/tools/src/org/apache/ecs/storage/Array.java
+END

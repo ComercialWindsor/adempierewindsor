@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4375708-e01a-46da-b51e-d2212d3a31e9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/adempiere_360.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base.eml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JasperReports/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/JasperReports/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JasperReports/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JasperReports/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JasperReportsWebApp/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/JasperReportsWebApp/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/base/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/org/adempiere/util/GenerateModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/org/adempiere/util/GenerateModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/org/adempiere/util/ModelClassGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/org/adempiere/util/ModelClassGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/org/adempiere/util/ModelInterfaceGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/org/adempiere/util/ModelInterfaceGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/org/compiere/model/MAllocationHdr.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/org/compiere/model/MAllocationHdr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/org/compiere/model/MClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/org/compiere/model/MClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/org/compiere/model/MCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/org/compiere/model/MCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/org/compiere/model/MCostDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/org/compiere/model/MCostDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/org/compiere/model/X_M_CostDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/org/compiere/model/X_M_CostDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/org/eevolution/model/MPPProductPlanning.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/org/eevolution/model/MPPProductPlanning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/client/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/org/compiere/apps/search/PAttributeInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/org/compiere/apps/search/PAttributeInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/org/compiere/grid/CreateFrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/org/compiere/grid/CreateFrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/org/compiere/minigrid/MiniTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/org/compiere/minigrid/MiniTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/org/compiere/print/Viewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/org/compiere/print/Viewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/doc/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extend/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/extend/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glassfishfacet/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/glassfishfacet/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/install/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jbossfacet/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/jbossfacet/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posterita/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/posterita/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverApps/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/serverApps/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverRoot/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/serverRoot/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkwebui/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/zkwebui/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ADForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/zkwebui/WEB-INF/src/org/adempiere/webui/panel/ADForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoBPartnerPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoBPartnerPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoProductPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoProductPanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="262" />
+    <option name="y" value="20" />
+    <option name="width" value="1398" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="29yqVDKSy2GW2q6We98DHcyLMoY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="adempiere_360">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adempiere_360" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adempiere_360" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Desarrollo/adempiere/adempiere_360"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Fernando\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4375708-e01a-46da-b51e-d2212d3a31e9" name="Default" comment="" />
+      <created>1528318455518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528318455518</updated>
+      <workItem from="1528318460941" duration="162000" />
+      <workItem from="1528318966676" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="219000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="262" y="20" width="1398" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2503618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

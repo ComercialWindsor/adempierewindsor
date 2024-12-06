@@ -1,0 +1,953 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process
+END
+DocActionTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DocActionTemplate.java
+END
+TabCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/TabCopy.java
+END
+TreeMaintenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/TreeMaintenance.java
+END
+BankStatementMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/BankStatementMatcher.java
+END
+DistributionRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DistributionRun.java
+END
+SequenceCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/SequenceCheck.java
+END
+ImportInOutConfirm.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportInOutConfirm.java
+END
+ColumnEncryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ColumnEncryption.java
+END
+DiscountSchemaReSeq.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DiscountSchemaReSeq.java
+END
+TransactionXRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/TransactionXRef.java
+END
+CommissionCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CommissionCopy.java
+END
+ImportProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportProduct.java
+END
+AdempiereService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/AdempiereService.java
+END
+RfQCreateSO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RfQCreateSO.java
+END
+DocOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DocOptions.java
+END
+PaymentOnline.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/PaymentOnline.java
+END
+BPartnerValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/BPartnerValidate.java
+END
+AllocationReset.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/AllocationReset.java
+END
+ProcessInfoParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProcessInfoParameter.java
+END
+ImportBankStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportBankStatement.java
+END
+ProjectClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProjectClose.java
+END
+CostCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CostCreate.java
+END
+InvoiceBatchProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InvoiceBatchProcess.java
+END
+InOutCreateConfirm.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InOutCreateConfirm.java
+END
+SendMailText.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/SendMailText.java
+END
+DistributionVerify.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DistributionVerify.java
+END
+CopyOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CopyOrder.java
+END
+CacheReset.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CacheReset.java
+END
+CommissionAPInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CommissionAPInvoice.java
+END
+RfQCopyLines.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RfQCopyLines.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/package.html
+END
+EntityTypeRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/EntityTypeRegister.java
+END
+ReplicationLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ReplicationLocal.java
+END
+BOMValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/BOMValidate.java
+END
+ProjectGenOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProjectGenOrder.java
+END
+CopyRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CopyRole.java
+END
+ImportConversionRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportConversionRate.java
+END
+InvoicePayScheduleValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InvoicePayScheduleValidate.java
+END
+BankStatementPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/BankStatementPayment.java
+END
+T_InventoryValue_Create.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/T_InventoryValue_Create.java
+END
+RemoteUpdateVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RemoteUpdateVO.java
+END
+RfQResponseCComplete.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RfQResponseCComplete.java
+END
+DocumentEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DocumentEngine.java
+END
+RequestInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RequestInvoice.java
+END
+ImportOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportOrder.java
+END
+ImportPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportPayment.java
+END
+InvoicePrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InvoicePrint.java
+END
+YearCreatePeriods.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/YearCreatePeriods.java
+END
+FactAcctReset.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/FactAcctReset.java
+END
+OrderBatchProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/OrderBatchProcess.java
+END
+LandedCostDistribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/LandedCostDistribute.java
+END
+RemoteSetupVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RemoteSetupVO.java
+END
+TabCreateFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/TabCreateFields.java
+END
+AssetDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/AssetDelivery.java
+END
+OrderRePrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/OrderRePrice.java
+END
+Aging.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/Aging.java
+END
+PeriodStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/PeriodStatus.java
+END
+ExpenseSOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ExpenseSOrder.java
+END
+FactAcctSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/FactAcctSummary.java
+END
+ImportAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportAccount.java
+END
+ImportInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportInvoice.java
+END
+ProcessInfoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProcessInfoUtil.java
+END
+NoteDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/NoteDelete.java
+END
+ImportInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportInventory.java
+END
+InventoryValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InventoryValue.java
+END
+ColumnSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ColumnSync.java
+END
+AcctSchemaDefaultCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/AcctSchemaDefaultCopy.java
+END
+InfoWindowValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InfoWindowValidate.java
+END
+KIndexRerun.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/KIndexRerun.java
+END
+ReportColumnSet_Copy.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ReportColumnSet_Copy.java
+END
+InvoiceCreateInOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InvoiceCreateInOut.java
+END
+Recurring.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/Recurring.java
+END
+RequestReOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RequestReOpen.java
+END
+WindowCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/WindowCopy.java
+END
+BPGroupAcctCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/BPGroupAcctCopy.java
+END
+PaySelectionCreateFrom.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/PaySelectionCreateFrom.java
+END
+CostUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CostUpdate.java
+END
+ClientProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ClientProcess.java
+END
+PaymentTermValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/PaymentTermValidate.java
+END
+PackageCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/PackageCreate.java
+END
+DunningPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DunningPrint.java
+END
+DocTypeCounterValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DocTypeCounterValidate.java
+END
+M_Product_BOM_Check.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/M_Product_BOM_Check.java
+END
+ChangeLogProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ChangeLogProcess.java
+END
+RfQResponseInvite.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RfQResponseInvite.java
+END
+ReportLineSet_Copy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ReportLineSet_Copy.java
+END
+ProcessInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProcessInfo.java
+END
+OrderPOCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/OrderPOCreate.java
+END
+RequisitionPOCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RequisitionPOCreate.java
+END
+ProjectGenPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProjectGenPO.java
+END
+SynchronizeTerminology.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/SynchronizeTerminology.java
+END
+StateEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/StateEngine.java
+END
+CopyColumnsFromTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CopyColumnsFromTable.java
+END
+SvrProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/SvrProcess.java
+END
+RemoteMergeDataVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RemoteMergeDataVO.java
+END
+DunningRunCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DunningRunCreate.java
+END
+RfQCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RfQCreate.java
+END
+StorageCleanup.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/StorageCleanup.java
+END
+MatchPODelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/MatchPODelete.java
+END
+ImportReportLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportReportLine.java
+END
+AllocationAuto.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/AllocationAuto.java
+END
+AcctSchemaCopyAcct.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/AcctSchemaCopyAcct.java
+END
+TranslationDocSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/TranslationDocSync.java
+END
+CopyFromProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CopyFromProject.java
+END
+M_Production_Run.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/M_Production_Run.java
+END
+RegisterSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RegisterSystem.java
+END
+InventoryCountCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InventoryCountCreate.java
+END
+LoadBankStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/LoadBankStatement.java
+END
+ProductUOMConvert.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProductUOMConvert.java
+END
+BPartnerOrgLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/BPartnerOrgLink.java
+END
+DocAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DocAction.java
+END
+ProductCategoryAcctCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProductCategoryAcctCopy.java
+END
+DocumentTypeVerify.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DocumentTypeVerify.java
+END
+InOutGenerate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InOutGenerate.java
+END
+ProcessCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProcessCall.java
+END
+TableCreateColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/TableCreateColumns.java
+END
+ProjectSetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProjectSetType.java
+END
+IssueReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/IssueReport.java
+END
+PeriodControlStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/PeriodControlStatus.java
+END
+CopyFromJournal.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CopyFromJournal.java
+END
+ProjectLinePricing.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProjectLinePricing.java
+END
+AD_PrintPaper_Default.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/AD_PrintPaper_Default.java
+END
+M_PriceList_Create.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/M_PriceList_Create.java
+END
+ImportDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportDelete.java
+END
+UserPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/UserPassword.java
+END
+InvoiceWriteOff.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InvoiceWriteOff.java
+END
+CopyReportProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CopyReportProcess.java
+END
+ExpenseAPInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ExpenseAPInvoice.java
+END
+RfQCreatePO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RfQCreatePO.java
+END
+ProjectPhaseGenOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProjectPhaseGenOrder.java
+END
+RfQResponseRank.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RfQResponseRank.java
+END
+M_Product_CostingUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/M_Product_CostingUpdate.java
+END
+OrgOwnership.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/OrgOwnership.java
+END
+TaxDeclarationCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/TaxDeclarationCreate.java
+END
+EMailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/EMailTest.java
+END
+ImportGLJournal.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportGLJournal.java
+END
+CopyFromOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CopyFromOrder.java
+END
+ProcessInfoLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProcessInfoLog.java
+END
+InOutCreateInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InOutCreateInvoice.java
+END
+RequestEMailProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RequestEMailProcessor.java
+END
+CommissionCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CommissionCalc.java
+END
+DistributionCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/DistributionCreate.java
+END
+BPartnerOrgUnLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/BPartnerOrgUnLink.java
+END
+InvoiceGenerate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InvoiceGenerate.java
+END
+ImportBPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ImportBPartner.java
+END
+InventoryCountUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InventoryCountUpdate.java
+END
+CopyFromInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/CopyFromInvoice.java
+END
+RfQClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RfQClose.java
+END
+ProjectIssue.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ProjectIssue.java
+END
+PaySelectionCreateCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/PaySelectionCreateCheck.java
+END
+AdempiereServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/AdempiereServer.java
+END
+ReplicationRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ReplicationRemote.java
+END
+ReplenishReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/ReplenishReport.java
+END
+RoleAccessUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/RoleAccessUpdate.java
+END
+MatchInvDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/MatchInvDelete.java
+END
+OrderOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/OrderOpen.java
+END
+InvoiceNGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/InvoiceNGL.java
+END
+SystemValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/process/SystemValidate.java
+END

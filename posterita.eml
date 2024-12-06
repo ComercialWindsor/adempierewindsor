@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/posterita"/>
+	<lib name="barcode4j.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/barcode4j.jar!/"/>
+	</lib>
+	<lib name="commons-fileupload.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/commons-fileupload.jar!/"/>
+	</lib>
+	<lib name="commons-validator.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/commons-validator.jar!/"/>
+	</lib>
+	<lib name="displaytag-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/displaytag-1.1.1.jar!/"/>
+	</lib>
+	<lib name="displaytag-export-poi-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/displaytag-export-poi-1.1.1.jar!/"/>
+	</lib>
+	<lib name="iText-2.1.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/iText-2.1.7.jar!/"/>
+	</lib>
+	<lib name="jcommon-1.0.16.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/jcommon-1.0.16.jar!/"/>
+	</lib>
+	<lib name="jfreechart-1.0.13.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/jfreechart-1.0.13.jar!/"/>
+	</lib>
+	<lib name="poi-3.0-FINAL.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/poi-3.0-FINAL.jar!/"/>
+	</lib>
+	<lib name="servlet.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/servlet.jar!/"/>
+	</lib>
+	<lib name="struts.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/posterita/posterita/web/WEB-INF/lib/struts.jar!/"/>
+	</lib>
+	<lib name="jpedal.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jpedal.jar!/"/>
+	</lib>
+	<lib name="jbossall-client.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/jboss/client/jbossall-client.jar!/"/>
+	</lib>
+	<lib name="ojdbc6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/ojdbc6.jar!/"/>
+	</lib>
+	<lib name="postgresql.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/postgresql.jar!/"/>
+	</lib>
+</component>

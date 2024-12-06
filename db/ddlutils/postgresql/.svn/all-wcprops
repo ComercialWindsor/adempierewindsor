@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql
+END
+build-ddl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/build-ddl.xml
+END
+install_procedures.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/install_procedures.sql
+END
+jdbc.properties.postgresql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/jdbc.properties.postgresql
+END
+build-view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/build-view.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/build.properties
+END
+build-ddl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/build-ddl.properties
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/readme.txt
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/RUN_build.sh
+END
+operators.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/operators.sql
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/db/ddlutils/postgresql/build.xml
+END

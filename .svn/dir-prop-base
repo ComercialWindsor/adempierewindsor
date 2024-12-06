@@ -1,0 +1,32 @@
+K 14
+bugtraq:append
+V 4
+true
+K 13
+bugtraq:label
+V 12
+SF tracker #
+K 15
+bugtraq:message
+V 74
+Link to SF Tracker: http://sourceforge.net/support/tracker.php?aid=%BUGID%
+K 14
+bugtraq:number
+V 4
+true
+K 11
+bugtraq:url
+V 54
+http://sourceforge.net/support/tracker.php?aid=%BUGID%
+K 21
+bugtraq:warnifnoissue
+V 4
+true
+K 10
+svn:ignore
+V 30
+bin
+adempiere
+test.properties
+
+END

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/tools"/>
+	<lib name="jstl.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jstl.jar!/"/>
+	</lib>
+	<lib name="Verisign.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/Verisign.jar!/"/>
+	</lib>
+	<lib name="standard.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/standard.jar!/"/>
+	</lib>
+	<lib name="barbecue-1.5-beta1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/barbecue-1.5-beta1.jar!/"/>
+	</lib>
+	<lib name="poi-3.0.1-FINAL-20070705.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/poi-3.0.1-FINAL-20070705.jar!/"/>
+	</lib>
+	<lib name="jnlp.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jnlp.jar!/"/>
+	</lib>
+	<lib name="iText-2.1.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/iText-2.1.7.jar!/"/>
+	</lib>
+	<lib name="swingx-1.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/swingx-1.6.jar!/"/>
+	</lib>
+	<lib name="miglayout-3.7.1-swing.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/miglayout-3.7.1-swing.jar!/"/>
+	</lib>
+	<lib name="payflow.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/payflow.jar!/"/>
+	</lib>
+	<lib name="cron4j-2.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/cron4j-2.2.1.jar!/"/>
+	</lib>
+	<lib name="c3p0-0.9.1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/c3p0-0.9.1.2.jar!/"/>
+	</lib>
+	<lib name="log4j.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/log4j.jar!/"/>
+	</lib>
+	<lib name="mail.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/mail.jar!/"/>
+	</lib>
+	<lib name="jpayment.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jpayment.jar!/"/>
+	</lib>
+	<lib name="bsh-2.0b5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/bsh-2.0b5.jar!/"/>
+	</lib>
+	<lib name="script-api.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/script-api.jar!/"/>
+	</lib>
+	<lib name="bsh-engine.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/bsh-engine.jar!/"/>
+	</lib>
+	<lib name="groovy-all-1.5.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/groovy-all-1.5.1.jar!/"/>
+	</lib>
+	<lib name="groovy-engine.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/groovy-engine.jar!/"/>
+	</lib>
+	<lib name="jython.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jython.jar!/"/>
+	</lib>
+	<lib name="jython-engine.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jython-engine.jar!/"/>
+	</lib>
+	<lib name="jcommon-1.0.16.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jcommon-1.0.16.jar!/"/>
+	</lib>
+	<lib name="jfreechart-1.0.13.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jfreechart-1.0.13.jar!/"/>
+	</lib>
+	<lib name="javaee.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/javaee.jar!/"/>
+	</lib>
+</component>

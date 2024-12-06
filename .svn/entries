@@ -1,0 +1,379 @@
+10
+
+dir
+13592
+https://adempiere.svn.sourceforge.net/svnroot/adempiere/tags/adempiere360lts
+https://adempiere.svn.sourceforge.net/svnroot/adempiere
+
+
+
+2010-07-17T13:21:39.925514Z
+13237
+trifonnt
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f8025ce2-341d-0410-ac50-9b82273f5115
+
+.classpath
+file
+
+
+
+
+2010-08-13T17:58:23.884151Z
+1430ebbac0508c3464bf72e518ce4086
+2010-06-14T06:56:23.068857Z
+12556
+globalqss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12035
+
+.hgignore
+file
+
+
+
+
+2010-08-13T17:58:23.894152Z
+92b06cc1383909889733117c52aba066
+2010-05-05T04:46:26.146878Z
+12243
+globalqss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1058
+
+.project
+file
+
+
+
+
+2010-08-13T17:58:23.865150Z
+a5fedd31df0f5f835a2e1917f3814bdf
+2010-06-19T16:35:46.897123Z
+12702
+trifonnt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+569
+
+.settings
+dir
+
+COMMITTERS
+file
+
+
+
+
+2010-08-13T17:58:23.930154Z
+929fed14696c71ab3ca14af89b64783c
+2010-06-13T23:29:46.285149Z
+12514
+globalqss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7385
+
+JasperReports
+dir
+
+JasperReportsTools
+dir
+
+JasperReportsWebApp
+dir
+
+adempiere.psf
+file
+
+
+
+
+2010-08-13T17:58:23.854149Z
+cbe4da6f75df8fd4d8719403d3ed3cc2
+2008-12-15T06:18:01.983215Z
+7610
+hengsin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2990
+
+adempiere_360.eml
+file
+0
+
+
+add
+
+base
+dir
+
+base.eml
+file
+0
+
+
+add
+
+client
+dir
+
+data
+dir
+
+db
+dir
+
+doc
+dir
+
+extend
+dir
+
+extension
+dir
+
+glassfishfacet
+dir
+
+install
+dir
+
+interfaces
+dir
+
+jboss
+dir
+
+jbossfacet
+dir
+
+launch
+dir
+
+lib
+dir
+
+license.html
+file
+
+
+
+
+2010-08-13T17:58:23.903152Z
+e5c63f56ae2cb2fd58893a05dffbf0d7
+2006-11-17T03:17:36.019882Z
+753
+vpj-cd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16119
+
+looks
+dir
+
+migration
+dir
+
+nbproject
+dir
+
+packages
+dir
+
+posterita
+dir
+
+serverApps
+dir
+
+serverRoot
+dir
+
+sqlj
+dir
+
+testTemplate.properties
+file
+
+
+
+
+2010-08-13T17:58:23.888151Z
+bf3485c24997b9cd45e1ceead79e23bb
+2010-03-26T20:18:22.064488Z
+11831
+globalqss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+531
+
+tools
+dir
+
+utils
+dir
+
+utils_dev
+dir
+
+webCM
+dir
+
+webStore
+dir
+
+zkpackages
+dir
+
+zkwebui
+dir
+

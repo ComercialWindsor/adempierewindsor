@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm
+END
+Broadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/Broadcast.java
+END
+MediaBroadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/MediaBroadcast.java
+END
+XMLBroadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/XMLBroadcast.java
+END
+Community.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/Community.java
+END
+HttpServletCM.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/HttpServletCM.java
+END
+StageBroadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/StageBroadcast.java
+END
+AdRedirector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/AdRedirector.java
+END
+Extend.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/Extend.java
+END
+RequestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/RequestServlet.java
+END

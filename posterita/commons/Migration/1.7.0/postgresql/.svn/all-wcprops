@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.7.0/postgresql
+END
+002_Terminals_newTableStructure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.7.0/postgresql/002_Terminals_newTableStructure.sql
+END
+001_MixedPayment.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.7.0/postgresql/001_MixedPayment.sql
+END
+004_Terminals_newTableDDL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.7.0/postgresql/004_Terminals_newTableDDL.sql
+END
+005_Messages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.7.0/postgresql/005_Messages.sql
+END
+003_Terminals_TransferConfiguration.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.7.0/postgresql/003_Terminals_TransferConfiguration.sql
+END

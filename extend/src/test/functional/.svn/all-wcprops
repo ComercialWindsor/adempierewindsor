@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional
+END
+MPInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MPInstanceTest.java
+END
+TrifonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/TrifonTest.java
+END
+QueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/QueryTest.java
+END
+PackOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/PackOutTest.java
+END
+AlertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/AlertTest.java
+END
+MCostDetailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MCostDetailTest.java
+END
+MInvoiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MInvoiceTest.java
+END
+WorkflowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/WorkflowTest.java
+END
+MLotTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MLotTest.java
+END
+MPaySelectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MPaySelectionTest.java
+END
+FunctionalTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/FunctionalTestSuite.java
+END
+MUOMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MUOMTest.java
+END
+TrxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/TrxTest.java
+END
+POTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/POTest.java
+END
+MAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MAttributeTest.java
+END
+MPriceListVersionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MPriceListVersionTest.java
+END
+MMenuTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MMenuTest.java
+END
+MMediaServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MMediaServerTest.java
+END
+MRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MRuleTest.java
+END
+MLocationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MLocationTest.java
+END
+DBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/DBTest.java
+END
+MBPartnerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MBPartnerTest.java
+END
+rbtreetest.yap
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/rbtreetest.yap
+END
+MAssetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MAssetTest.java
+END
+MCostElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MCostElementTest.java
+END
+MSessionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MSessionTest.java
+END
+MCurrencyAcctTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MCurrencyAcctTest.java
+END
+MCashBookTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MCashBookTest.java
+END
+MRequestTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MRequestTypeTest.java
+END
+wcandtaskdata.yap
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/wcandtaskdata.yap
+END
+MStorageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MStorageTest.java
+END
+MSysConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MSysConfigTest.java
+END
+MProjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MProjectTest.java
+END
+MBPartnerLocationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MBPartnerLocationTest.java
+END
+MRefListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MRefListTest.java
+END
+MMatchInvTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MMatchInvTest.java
+END
+MContactInterestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MContactInterestTest.java
+END
+MPaymentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MPaymentTest.java
+END
+MProductBOMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MProductBOMTest.java
+END
+MBPGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MBPGroupTest.java
+END
+MClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MClientTest.java
+END
+MColorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MColorTest.java
+END
+MUserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MUserTest.java
+END
+MDistributionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MDistributionTest.java
+END
+MProductTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/extend/src/test/functional/MProductTest.java
+END

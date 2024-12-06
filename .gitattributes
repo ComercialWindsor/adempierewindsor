@@ -1,0 +1,2 @@
+adempiere/install/Adempiere_360LTS.zip filter=lfs diff=lfs merge=lfs -text
+adempiere/install/Adempiere_360LTS.tar.gz filter=lfs diff=lfs merge=lfs -text

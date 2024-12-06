@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/props
+END
+jbossws-users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/props/jbossws-users.properties
+END
+jbossws-roles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/props/jbossws-roles.properties
+END
+jmx-console-users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/props/jmx-console-users.properties
+END
+jmx-console-roles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/conf/props/jmx-console-roles.properties
+END

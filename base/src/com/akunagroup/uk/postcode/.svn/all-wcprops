@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/com/akunagroup/uk/postcode
+END
+AddressLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/com/akunagroup/uk/postcode/AddressLookup.java
+END
+AddressLookupInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/com/akunagroup/uk/postcode/AddressLookupInterface.java
+END
+Postcode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/com/akunagroup/uk/postcode/Postcode.java
+END
+AddressInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/com/akunagroup/uk/postcode/AddressInterface.java
+END

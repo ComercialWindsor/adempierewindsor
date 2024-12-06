@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle
+END
+007_country_changes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/007_country_changes.sql
+END
+005_fix_bug_1705537.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/005_fix_bug_1705537.sql
+END
+006_add_ProductCategoryParent.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/006_add_ProductCategoryParent.sql
+END
+001_add_c_acctschema_isallownegativeposting.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/001_add_c_acctschema_isallownegativeposting.sql
+END
+003_fix_acct_constraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/003_fix_acct_constraints.sql
+END
+011_cleaner_bug_1707995.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/011_cleaner_bug_1707995.sql
+END
+004_fix_bug_1705164.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/004_fix_bug_1705164.sql
+END
+013_version32.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/013_version32.sql
+END
+002_fix_I_Product_X12DE355.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/002_fix_I_Product_X12DE355.sql
+END
+008_2pack_enhancements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/008_2pack_enhancements.sql
+END
+010_add_feature_1708139.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/010_add_feature_1708139.sql
+END
+012_M_PriceList_Create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/012_M_PriceList_Create.sql
+END
+009_fix_bug_1707995.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/316-320/oracle/009_fix_bug_1707995.sql
+END

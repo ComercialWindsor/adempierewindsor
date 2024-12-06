@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/stock
+END
+StockList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/stock/StockList.java
+END
+InventoryCartManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/stock/InventoryCartManager.java
+END
+MMovementManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/stock/MMovementManager.java
+END
+InventoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/stock/InventoryManager.java
+END
+StockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/src/main/org/posterita/businesslogic/stock/StockManager.java
+END

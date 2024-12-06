@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/JasperReports"/>
+	<lib name="postgresql.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/postgresql.jar!/"/>
+	</lib>
+	<lib name="ojdbc6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/ojdbc6.jar!/"/>
+	</lib>
+	<lib name="barbecue-1.5-beta1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/barbecue-1.5-beta1.jar!/"/>
+	</lib>
+</component>

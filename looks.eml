@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/looks"/>
+	<lib name="looks-2.0.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/looks-2.0.4.jar!/"/>
+	</lib>
+	<lib name="swingx-1.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/swingx-1.6.jar!/"/>
+	</lib>
+	<lib name="jnlp.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/jnlp.jar!/"/>
+	</lib>
+</component>

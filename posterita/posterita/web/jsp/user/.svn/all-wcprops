@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/user
+END
+editUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/user/editUser.jsp
+END
+userCreated.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/user/userCreated.jsp
+END
+viewUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/user/viewUser.jsp
+END
+listUsers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/user/listUsers.jsp
+END
+createUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/user/createUser.jsp
+END
+registerUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/user/registerUser.jsp
+END

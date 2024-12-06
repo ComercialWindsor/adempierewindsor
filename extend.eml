@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/extend"/>
+	<lib name="junit.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/junit.jar!/"/>
+	</lib>
+	<lib name="activemq-core-5.0.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/activemq-core-5.0.0.jar!/"/>
+	</lib>
+	<lib name="SuperCSV-with_src-1.52.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/tools/lib/testing/SuperCSV-with_src-1.52.jar!/"/>
+	</lib>
+</component>

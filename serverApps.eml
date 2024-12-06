@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/serverApps"/>
+	<lib name="commons-beanutils-bean-collections.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/serverApps/src/web/WEB-INF/lib/commons-beanutils-bean-collections.jar!/"/>
+	</lib>
+	<lib name="commons-beanutils-core.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/serverApps/src/web/WEB-INF/lib/commons-beanutils-core.jar!/"/>
+	</lib>
+	<lib name="commons-beanutils.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/serverApps/src/web/WEB-INF/lib/commons-beanutils.jar!/"/>
+	</lib>
+	<lib name="commons-codec-1.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/serverApps/src/web/WEB-INF/lib/commons-codec-1.3.jar!/"/>
+	</lib>
+	<lib name="commons-collections-3.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/serverApps/src/web/WEB-INF/lib/commons-collections-3.1.jar!/"/>
+	</lib>
+	<lib name="commons-digester-1.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/serverApps/src/web/WEB-INF/lib/commons-digester-1.7.jar!/"/>
+	</lib>
+	<lib name="commons-fileupload.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/serverApps/src/web/WEB-INF/lib/commons-fileupload.jar!/"/>
+	</lib>
+	<lib name="commons-lang-2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/serverApps/src/web/WEB-INF/lib/commons-lang-2.1.jar!/"/>
+	</lib>
+	<lib name="commons-validator-1.2.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/serverApps/src/web/WEB-INF/lib/commons-validator-1.2.0.jar!/"/>
+	</lib>
+</component>

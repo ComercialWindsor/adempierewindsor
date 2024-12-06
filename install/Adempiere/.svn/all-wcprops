@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere
+END
+RUN_update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/RUN_update.sh
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/license.html
+END
+RUN_silentsetup.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/RUN_silentsetup.bat
+END
+RUN_setup.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/RUN_setup.bat
+END
+install.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/install.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/index.html
+END
+AdempiereEnvTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/AdempiereEnvTemplate.properties
+END
+RUN_update.bat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/RUN_update.bat
+END
+RUN_silentsetup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/RUN_silentsetup.sh
+END
+RUN_setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/RUN_setup.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/install/Adempiere/build.xml
+END

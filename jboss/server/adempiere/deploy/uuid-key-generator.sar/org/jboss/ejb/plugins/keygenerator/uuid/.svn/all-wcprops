@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/uuid-key-generator.sar/org/jboss/ejb/plugins/keygenerator/uuid
+END
+UUIDKeyGeneratorFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/uuid-key-generator.sar/org/jboss/ejb/plugins/keygenerator/uuid/UUIDKeyGeneratorFactory.class
+END
+UUIDKeyGeneratorFactoryService.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/uuid-key-generator.sar/org/jboss/ejb/plugins/keygenerator/uuid/UUIDKeyGeneratorFactoryService.class
+END
+UUIDKeyGeneratorFactoryServiceMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/uuid-key-generator.sar/org/jboss/ejb/plugins/keygenerator/uuid/UUIDKeyGeneratorFactoryServiceMBean.class
+END
+UUIDKeyGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/uuid-key-generator.sar/org/jboss/ejb/plugins/keygenerator/uuid/UUIDKeyGenerator.class
+END

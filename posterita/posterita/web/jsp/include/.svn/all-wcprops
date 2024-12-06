@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include
+END
+filter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/filter.jsp
+END
+searchProductPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/searchProductPanel.jsp
+END
+draftedPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/draftedPOSOrder.jsp
+END
+creditOrderWithAdvanced.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/creditOrderWithAdvanced.jsp
+END
+posOrderPart1FocusSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderPart1FocusSearch.jsp
+END
+minuteList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/minuteList.jsp
+END
+historyMonthYearFilter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/historyMonthYearFilter.jsp
+END
+year.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/year.jsp
+END
+searchProductPanel2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/searchProductPanel2.jsp
+END
+searchProductPanel3.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/searchProductPanel3.jsp
+END
+posHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posHeader.jsp
+END
+errors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/errors.jsp
+END
+customerInfoPanel2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/customerInfoPanel2.jsp
+END
+posHeaderAdministration.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posHeaderAdministration.jsp
+END
+monthList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/monthList.jsp
+END
+posOrderFocusSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderFocusSearch.jsp
+END
+tenderPanel2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/tenderPanel2.jsp
+END
+searchVendorPanel2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/searchVendorPanel2.jsp
+END
+completePOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/completePOSOrder.jsp
+END
+startCalendar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/startCalendar.jsp
+END
+documentStatusFilter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/documentStatusFilter.jsp
+END
+tabTop.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/tabTop.jsp
+END
+posHeader2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posHeader2.jsp
+END
+customerInfoPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/customerInfoPanel.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/footer.jsp
+END
+endCalendar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/endCalendar.jsp
+END
+tenderPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/tenderPanel.jsp
+END
+posOrderWithAdvancedFocusSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderWithAdvancedFocusSearch.jsp
+END
+searchCustomerPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/searchCustomerPanel.jsp
+END
+historyfilter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/historyfilter.jsp
+END
+success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/success.jsp
+END
+dayList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/dayList.jsp
+END
+tablebottom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/tablebottom.jsp
+END
+posOrderBarCode.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderBarCode.jsp
+END
+posOrderWithAdvanced.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderWithAdvanced.jsp
+END
+posFooter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posFooter.jsp
+END
+dateFilter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/dateFilter.jsp
+END
+backBt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/backBt.jsp
+END
+tabBottom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/tabBottom.jsp
+END
+yearList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/yearList.jsp
+END
+creditOrderPart1FocusBarCode.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/creditOrderPart1FocusBarCode.jsp
+END
+paymentTermsDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/paymentTermsDetails.jsp
+END
+draftedCreditOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/draftedCreditOrder.jsp
+END
+posOrderPart1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderPart1.jsp
+END
+posOrderPart2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderPart2.jsp
+END
+pinPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/pinPanel.jsp
+END
+posHistoryFilter2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posHistoryFilter2.jsp
+END
+footerTableBottom1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/footerTableBottom1.jsp
+END
+posOrderSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderSearch.jsp
+END
+posOrderPart1FocusBarCode.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderPart1FocusBarCode.jsp
+END
+month.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/month.jsp
+END
+posPaymentDetails2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posPaymentDetails2.jsp
+END
+searchCustomerPanel2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/searchCustomerPanel2.jsp
+END
+posHistoryFilter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posHistoryFilter.jsp
+END
+vendorInfoPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/vendorInfoPanel.jsp
+END
+completePOSOrderIncl.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/completePOSOrderIncl.jsp
+END
+posOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrder.jsp
+END
+printOrderApplet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/printOrderApplet.jsp
+END
+pager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/pager.jsp
+END
+errorMsg.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/errorMsg.jsp
+END
+taxDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/taxDetails.jsp
+END
+searchVendorPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/searchVendorPanel.jsp
+END
+posPaymentDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posPaymentDetails.jsp
+END
+hourList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/hourList.jsp
+END
+tabTop_big.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/tabTop_big.jsp
+END
+paymentRuleFilter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/paymentRuleFilter.jsp
+END
+showErrors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/showErrors.jsp
+END
+posOrderFocusBarCode.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/posOrderFocusBarCode.jsp
+END
+printOrderApplet2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/include/printOrderApplet2.jsp
+END

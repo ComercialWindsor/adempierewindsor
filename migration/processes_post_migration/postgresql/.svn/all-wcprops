@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/postgresql
+END
+01_add_missing_translations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/postgresql/01_add_missing_translations.sql
+END
+02_SynchronizeTerminology.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/postgresql/02_SynchronizeTerminology.sql
+END
+04_role_access_update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/postgresql/04_role_access_update.sql
+END
+03_update_sequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/processes_post_migration/postgresql/03_update_sequences.sql
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/utils
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/utils/Counter.java
+END
+TreeXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/utils/TreeXML.java
+END
+AccessLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/utils/AccessLogger.java
+END
+Attributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/utils/Attributes.java
+END
+CMEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/utils/CMEnv.java
+END
+LocaleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/utils/LocaleHandler.java
+END
+RequestAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/webCM/src/main/servlet/org/compiere/cm/utils/RequestAnalyzer.java
+END

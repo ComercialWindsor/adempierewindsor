@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/unix
+END
+adempiere_as_service_in_linux.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/unix/adempiere_as_service_in_linux.txt
+END
+adempiere_Debian.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/unix/adempiere_Debian.sh
+END
+adempiere_RedHat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/unix/adempiere_RedHat.sh
+END

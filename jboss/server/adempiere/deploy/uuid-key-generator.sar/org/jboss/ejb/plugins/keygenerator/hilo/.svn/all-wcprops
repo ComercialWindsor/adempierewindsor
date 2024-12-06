@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/uuid-key-generator.sar/org/jboss/ejb/plugins/keygenerator/hilo
+END
+HiLoKeyGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/uuid-key-generator.sar/org/jboss/ejb/plugins/keygenerator/hilo/HiLoKeyGenerator.class
+END
+HiLoKeyGeneratorFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/uuid-key-generator.sar/org/jboss/ejb/plugins/keygenerator/hilo/HiLoKeyGeneratorFactory.class
+END
+HiLoKeyGeneratorFactoryMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/uuid-key-generator.sar/org/jboss/ejb/plugins/keygenerator/hilo/HiLoKeyGeneratorFactoryMBean.class
+END

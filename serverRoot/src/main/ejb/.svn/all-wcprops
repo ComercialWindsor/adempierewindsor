@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/src/main/ejb
+END
+jboss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/src/main/ejb/jboss.xml
+END
+sun-ejb-jar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/serverRoot/src/main/ejb/sun-ejb-jar.xml
+END

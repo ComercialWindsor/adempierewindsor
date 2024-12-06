@@ -1,0 +1,5 @@
+K 13
+svn:mergeinfo
+V 64
+/branches/qa/db/ddlutils/oracle/procedures/NextIDByYear.sql:8249
+END

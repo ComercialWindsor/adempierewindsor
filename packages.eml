@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/packages"/>
+	<lib name="liberoHR.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/packages/liberoHR.jar!/"/>
+	</lib>
+	<lib name="liberoMFG.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/packages/liberoMFG.jar!/"/>
+	</lib>
+</component>

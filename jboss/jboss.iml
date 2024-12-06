@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/client/jboss-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/client/jboss-common-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/client/jboss-j2ee.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/client/jbosssx-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/client/jboss-transaction-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/client/jnp-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/client/jmx-invoker-adaptor-client.jar!/" />
+    <src_description expected_position="0" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/lib" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library name="jboss-client.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/client/jboss-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jboss-common-client.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/client/jboss-common-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jboss-j2ee.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/client/jboss-j2ee.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jbosssx-client.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/client/jbosssx-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jboss-transaction-client.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/client/jboss-transaction-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jnp-client.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/client/jnp-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jmx-invoker-adaptor-client.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/client/jmx-invoker-adaptor-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds
+END
+FrameRestoreUp.wav
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/FrameRestoreUp.wav
+END
+OptionPaneQuestion.wav
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/OptionPaneQuestion.wav
+END
+FrameRestoreDown.wav
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/FrameRestoreDown.wav
+END
+OptionPaneError.wav
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/OptionPaneError.wav
+END
+FrameMinimize.wav
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/FrameMinimize.wav
+END
+PopupMenuPopup.wav
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/PopupMenuPopup.wav
+END
+FrameMaximize.wav
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/FrameMaximize.wav
+END
+FrameClose.wav
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/FrameClose.wav
+END
+MenuItemCommand.wav
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/MenuItemCommand.wav
+END
+OptionPaneInformation.wav
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/OptionPaneInformation.wav
+END
+OptionPaneWarning.wav
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/base/src/org/compiere/plaf/sounds/OptionPaneWarning.wav
+END

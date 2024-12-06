@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils
+END
+ftpGetAdempiereTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/ftpGetAdempiereTemplate.txt
+END
+RUN_DBExport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_DBExport.bat
+END
+RUN_GetAdempiereTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_GetAdempiereTemplate.bat
+END
+RUN_Migrate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Migrate.bat
+END
+RUN_Env.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Env.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/.project
+END
+RUN_DBStop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_DBStop.bat
+END
+adempiereDirectTemplate.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/adempiereDirectTemplate.jnlp
+END
+RUN_Migrate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Migrate.sh
+END
+RUN_Env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Env.sh
+END
+RUN_UnixEnvTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_UnixEnvTemplate.sh
+END
+RUN_ImportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_ImportReference.sh
+END
+RUN_DBRestore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_DBRestore.sh
+END
+RUN_Server2Stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Server2Stop.bat
+END
+myDBcopyTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/myDBcopyTemplate.bat
+END
+RUN_Adempiere.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Adempiere.sh
+END
+RUN_Server2Stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Server2Stop.sh
+END
+myDBcopyTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/myDBcopyTemplate.sh
+END
+RUN_ExportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_ExportReference.sh
+END
+RUN_DBStart.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_DBStart.sh
+END
+RUN_TrlExport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_TrlExport.sh
+END
+RUN_SignDatabaseBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_SignDatabaseBuild.sh
+END
+myEnvironmentTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/myEnvironmentTemplate.bat
+END
+RUN_ImportAdempiere.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_ImportAdempiere.bat
+END
+myEnvironmentTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/myEnvironmentTemplate.sh
+END
+RUN_Server2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Server2.bat
+END
+WinEnv.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/WinEnv.js
+END
+RUN_DBRestore.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_DBRestore.bat
+END
+RUN_ImportReference.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_ImportReference.bat
+END
+RUN_ImportAdempiere.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_ImportAdempiere.sh
+END
+RUN_DBExport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_DBExport.sh
+END
+RUN_Adempiere.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Adempiere.bat
+END
+RUN_GetAdempiereTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_GetAdempiereTemplate.sh
+END
+RUN_Server2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Server2.sh
+END
+RUN_TrlImport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_TrlImport.bat
+END
+RUN_Start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Start.bat
+END
+RUN_DBStop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_DBStop.sh
+END
+RUN_TrlImport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_TrlImport.sh
+END
+RUN_WinEnvTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_WinEnvTemplate.bat
+END
+RUN_PostMigration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_PostMigration.sh
+END
+RUN_DBStart.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_DBStart.bat
+END
+RUN_TrlExport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_TrlExport.bat
+END
+RUN_SignDatabaseBuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_SignDatabaseBuild.bat
+END
+ftpPutExportTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/ftpPutExportTemplate.txt
+END
+RUN_PutExportTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_PutExportTemplate.bat
+END
+RUN_PutExportTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_PutExportTemplate.sh
+END
+RUN_Stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/RUN_Stop.bat
+END

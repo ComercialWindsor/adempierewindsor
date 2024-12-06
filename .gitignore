@@ -1,0 +1,3 @@
+# Ignorar archivos Adempiere específicos
+adempiere/install/Adempiere_360LTS.tar.gz
+adempiere/install/Adempiere_360LTS.zip

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer
+END
+jboss-aop-jdk50.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/jboss-aop-jdk50.jar
+END
+pluggable-instrumentor.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/pluggable-instrumentor.jar
+END
+jboss-aspect-library-jdk50.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/jboss-aspect-library-jdk50.jar
+END
+base-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/base-aop.xml
+END
+jrockit-pluggable-instrumentor.jar
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/jrockit-pluggable-instrumentor.jar
+END
+trove.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/trove.jar
+END

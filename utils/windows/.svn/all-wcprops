@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/windows
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/windows/license.txt
+END
+Adempiere_Service_Install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/windows/Adempiere_Service_Install.bat
+END
+Adempiere_Service_Uninstall.bat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/windows/Adempiere_Service_Uninstall.bat
+END
+AdempiereService.exe
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/utils/windows/AdempiereService.exe
+END

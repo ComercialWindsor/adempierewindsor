@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle
+END
+012_AD_Role_add_allow_info_flags.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/012_AD_Role_add_allow_info_flags.sql
+END
+002_add_message_Charset.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/002_add_message_Charset.sql
+END
+017_fix_typo_entitytype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/017_fix_typo_entitytype.sql
+END
+008_add_message_Implementation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/008_add_message_Implementation.sql
+END
+009_add_StoreAttachmentsOnFilesystem.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/009_add_StoreAttachmentsOnFilesystem.sql
+END
+007_ProductAttribute.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/007_ProductAttribute.sql
+END
+001_patch_processes_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/001_patch_processes_oracle.sql
+END
+013_add_RequestEMailProcessor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/013_add_RequestEMailProcessor.sql
+END
+010_drop_tire_storage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/010_drop_tire_storage.sql
+END
+005_add_CopyColumnsFromTable_es_MX.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/005_add_CopyColumnsFromTable_es_MX.sql
+END
+004_add_CopyColumnsFromTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/004_add_CopyColumnsFromTable.sql
+END
+018_incomplete_sequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/018_incomplete_sequences.sql
+END
+016_version315.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/016_version315.sql
+END
+003_add_message_Charset_TRL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/003_add_message_Charset_TRL.sql
+END
+011_create_ad_sysconfig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/011_create_ad_sysconfig.sql
+END
+015_integrate_jasper_printengine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/015_integrate_jasper_printengine.sql
+END
+014_add_RequestEMailProcessor_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/014_add_RequestEMailProcessor_2.sql
+END
+006_update_2pack_classname.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/migration/314-315/oracle/006_update_2pack_classname.sql
+END

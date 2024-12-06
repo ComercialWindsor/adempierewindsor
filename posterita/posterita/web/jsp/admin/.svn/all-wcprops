@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin
+END
+updateOrCreateOrganisation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/updateOrCreateOrganisation.jsp
+END
+createRole.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/createRole.jsp
+END
+viewMyDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/viewMyDetails.jsp
+END
+viewOrganisation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/viewOrganisation.jsp
+END
+viewUsers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/viewUsers.jsp
+END
+viewRole.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/viewRole.jsp
+END
+changeEmail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/changeEmail.jsp
+END
+checkSequenceSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/checkSequenceSuccess.jsp
+END
+checkDataIntegritySuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/checkDataIntegritySuccess.jsp
+END
+emailChanged.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/emailChanged.jsp
+END
+userDeleted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/userDeleted.jsp
+END
+changePassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/changePassword.jsp
+END
+passwordChanged.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/passwordChanged.jsp
+END
+listOrganisations.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/listOrganisations.jsp
+END
+viewUserDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/viewUserDetails.jsp
+END
+listRoles.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/posterita/web/jsp/admin/listRoles.jsp
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.7.2/oracle
+END
+001_ADRole.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/12599/tags/adempiere360lts/posterita/commons/Migration/1.7.2/oracle/001_ADRole.sql
+END
