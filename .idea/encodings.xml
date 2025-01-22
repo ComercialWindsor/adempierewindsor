@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1">
+    <file url="file://$PROJECT_DIR$/../customizationComercialWindsor/project" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/../customizationComercialWindsor/project/plugins.sbt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../customizationOFBConsulting/extend/org/ofb/model/ManAgreementValidator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../customizationOFBConsulting/project" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/../customizationOFBConsulting/project/plugins.sbt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../customizationOpenVia/project" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/../customizationOpenVia/project/plugins.sbt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../customizationPreSalesOrder/project" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/../customizationPreSalesOrder/project/plugins.sbt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../customizationSNC/project" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/../customizationSNC/project/plugins.sbt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
 </project>
