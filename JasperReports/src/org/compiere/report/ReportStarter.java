@@ -86,7 +86,7 @@ import org.compiere.util.Ini;
 import org.compiere.util.Language;
 import org.compiere.util.Trx;
 import org.compiere.util.Util;
-import org.compiere.utils.DigestOfFile;
+import org.compiere.util.DigestOfFile;
 
 /**
  * @author rlemeill

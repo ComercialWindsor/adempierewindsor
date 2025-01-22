@@ -25,9 +25,7 @@ import java.util.ArrayList;
 import java.util.Locale;
 import java.util.Properties;
 import java.util.logging.Level;
-
-import javax.swing.JOptionPane;
-
+import javax.swing.*;
 import org.compiere.Adempiere;
 import org.compiere.db.CConnection;
 import org.compiere.model.I_M_Warehouse;
@@ -100,21 +98,33 @@ public class Login
 	public static boolean isJavaOK (boolean isClient)
 	{
 		//	Java System version check
-		String jVersion = System.getProperty("java.version");
-		if (jVersion.startsWith("1.5.0"))
-			return true;
-                //vpj-cd e-evolution support to java 6
-                if (jVersion.startsWith("1.6.0"))
-			return true;
-                //end
+        String jVersion = System.getProperty("java.version");
+        if (jVersion.startsWith("1.5.0"))
+            return true;
+        //if (jVersion.startsWith("1.5.0"))
+        //	return true;
+        //vpj-cd e-evolution support to java 6
+        if (jVersion.startsWith("1.6.0"))
+            return true;
+        //if (jVersion.startsWith("1.6.0"))
+        //	return true;
+        //Add ADEMPIERE-86 Add JAVA 7.0 support in ADempiere
+        if (jVersion.startsWith("1.7.0"))
+            return true;
+        //Add ADEMPIERE-86 Add JAVA 8.0 support in ADempiere
+        if (jVersion.startsWith("1.8.0"))
+            return true;
+        //end
 		//  Warning
-		boolean ok = false;
-	//	if (jVersion.startsWith("1.4")
-	//		|| jVersion.startsWith("1.5.1"))	//  later/earlier release
-	//		ok = true;
-
+        boolean ok = false;
 		//  Error Message
 		StringBuffer msg = new StringBuffer();
+        msg.append(System.getProperty("java.vm.name")).append(" - ").append(jVersion);
+        if (ok)
+            msg.append("(untested)");
+        msg.append(" <> 1.5.0, 1.6.0, 1.7.0");
+        //msg.append(" <> 1.5.0, 1.6.0, 1.7.0 1.8.0");
+        msg.append(" <> 1.7.0 , 1.8.0");
 		msg.append(System.getProperty("java.vm.name")).append(" - ").append(jVersion);
 		if (ok)
 			msg.append("(untested)");
