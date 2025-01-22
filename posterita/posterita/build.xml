@@ -46,7 +46,7 @@
 	<!-- Creating new posterita.jar -->
 	<target name="compile" depends="init">
 		<!-- compile the java code from ${src} into ${build.dir} -->
-		<javac srcdir="${src.main.dir}" destdir="${src.web.dir}/WEB-INF/classes" deprecation="on" source="1.6" target="1.6" debug="on">
+		<javac srcdir="${src.main.dir}" destdir="${src.web.dir}/WEB-INF/classes" deprecation="on" source="1.8" target="1.8" debug="on">
 			<classpath>
 				<fileset dir="${src.web.dir}/WEB-INF/lib/">
 					<include name="*.jar" />
@@ -73,7 +73,7 @@
 	</target>
 	
 	<target name="createAspectJar" depends="compile">
-		<iajc srcdir="${src.aspect.dir}" destdir="${build.dir}" deprecation="on" source="1.5" target="1.5" debug="on" outxml="true" outxmlfile="META-INF/aop.xml">
+		<iajc srcdir="${src.aspect.dir}" destdir="${build.dir}" deprecation="on" source="1.8" target="1.8" debug="on" outxml="true" outxmlfile="META-INF/aop.xml">
 			<classpath>
 				<fileset dir="${dist.dir}/lib/">
 					<include name="*.jar" />
