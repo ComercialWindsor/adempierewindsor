@@ -50,9 +50,14 @@ import org.adempiere.exceptions.AdempiereException;
  *  @author Teo Sarca, teo.sarca@gmail.com
  *  		<li>BF [ 2849122 ] PO.AfterSave is not rollback on error - add releaseSavepoint method
  *  			https://sourceforge.net/tracker/index.php?func=detail&aid=2849122&group_id=176962&atid=879332#
+ *  @author Yamel Senih, ysenih@erpya.com, ERPCyA http://www.erpya.com
+ *  		<li>Fixed error with connection without close after throw a exception from Trx.run
  */
 public class Trx implements VetoableChangeListener
 {
+	/** trxName=null marker */
+	// metas
+	public static final String TRXNAME_None = null;
 	/**
 	 * 	Get Transaction
 	 *	@param trxName trx name
@@ -143,7 +148,22 @@ public class Trx implements VetoableChangeListener
 	 */
 	public Connection getConnection()
 	{
+		log.log(Level.ALL, "Active=" + isActive() + ", Connection=" + m_connection);
+		if (s_cache == null || !s_cache.containsKey(m_trxName))
+		{
+			new Exception("Illegal to getConnection for Trx that is not register.").printStackTrace();
+			return null;
+		}
+
+		if (m_connection != null) {
+			if (!isActive())
+				start();
+			return m_connection;
+		}
+		else if (m_connection == null)
 		return getConnection(true);
+
+		return null;
 	}
 
 	/**
@@ -154,21 +174,8 @@ public class Trx implements VetoableChangeListener
 	public Connection getConnection(boolean createNew)
 	{
 		log.log(Level.ALL, "Active=" + isActive() + ", Connection=" + m_connection);
-		
-		if (m_connection == null)	//	get new Connection
-		{
-			if (createNew)
-			{
-				if (s_cache == null || !s_cache.containsKey(m_trxName))
-				{
-					new Exception("Illegal to getConnection for Trx that is not register.").printStackTrace();
-					return null;
-				}
+		if (createNew && m_connection == null)
 				setConnection(DB.createConnection(false, Connection.TRANSACTION_READ_COMMITTED));
-			}
-			else
-				return null;
-		}
 		if (!isActive())
 			start();
 		return m_connection;
@@ -329,7 +336,8 @@ public class Trx implements VetoableChangeListener
 			if (m_connection != null)
 			{
 				m_connection.commit();
-				log.info ("**** " + m_trxName);
+				//log.log(isLocalTrx(m_trxName) ? Level.FINE : Level.INFO, "**** " + m_trxName);
+				log.log (Level.ALL, "**** " + m_trxName);
 				m_active = false;
 				return true;
 			}
@@ -391,7 +399,7 @@ public class Trx implements VetoableChangeListener
 		}
 		m_connection = null;
 		m_active = false;
-		log.config(m_trxName);
+		log.log(Level.ALL,m_trxName);
 		return true;
 	}	//	close
 	
@@ -523,38 +531,28 @@ public class Trx implements VetoableChangeListener
 			if (localTrx)
 				trx.commit(true);
 		}
-		catch (Throwable e)
-		{
+		catch (Throwable e) {
 			// Rollback transaction
-			if (localTrx)
-			{
+			if (localTrx) {
 				trx.rollback();
-			}
-			else if (savepoint != null)
-			{
+			} else if (savepoint != null) {
 				try {
 					trx.rollback(savepoint);
 				}
 				catch (SQLException e2) {;}
 			}
-			trx = null;
 			// Throw exception
-			if (e instanceof RuntimeException)
-			{
+			if (e instanceof RuntimeException) {
 				throw (RuntimeException)e;
-			}
-			else
-			{
+			} else {
 				throw new AdempiereException(e);
 			}
 		}
 		finally {
-			if (localTrx && trx != null)
-			{
+			if (localTrx && trx != null) {
 				trx.close();
 				trx = null;
 			}
 		}
 	}
-	
 }	//	Trx
