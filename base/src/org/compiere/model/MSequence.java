@@ -95,23 +95,33 @@ public class MSequence extends X_AD_Sequence
 			s_log.log(LOGLEVEL, TableName + " - AdempiereSys=" + adempiereSys  + " [" + trxName + "]");
 		  //begin vpj-cd e-evolution 09/02/2005 PostgreSQL
 		String selectSQL = null;
-		if (DB.isOracle() == false)
+		if ( DB.isPostgreSQL() )
 		{
 			selectSQL = "SELECT CurrentNext, CurrentNextSys, IncrementNo, AD_Sequence_ID "
 				+ "FROM AD_Sequence "
 				+ "WHERE Name=?"
 				+ " AND IsActive='Y' AND IsTableID='Y' AND IsAutoSequence='Y' "
-				+ " FOR UPDATE OF AD_Sequence ";
+				+ " FOR UPDATE OF AD_Sequence " ;//OF AD_Sequence "; POSTGRES WORKS, FOR MYSQL SYNTAX
 			USE_PROCEDURE=false;
 		}
-		else
+		else if (DB.isOracle())
 		{
 			selectSQL = "SELECT CurrentNext, CurrentNextSys, IncrementNo, AD_Sequence_ID "
 			+ "FROM AD_Sequence "
 			+ "WHERE Name=?"
-			+ " AND IsActive='Y' AND IsTableID='Y' AND IsAutoSequence='Y' ";
+			+ " AND IsActive='Y' AND IsTableID='Y' AND IsAutoSequence='Y' "
+			+ "FOR UPDATE";	// jz derby needs expicitly said it//OF CurrentNext, CurrentNextSys";
 
 			USE_PROCEDURE = true;
+		} else {
+			selectSQL = "SELECT CurrentNext, CurrentNextSys, IncrementNo, AD_Sequence_ID "
+				+ "FROM AD_Sequence "
+				+ "WHERE Name=?"
+				+ " AND IsActive='Y' AND IsTableID='Y' AND IsAutoSequence='Y' "
+				//+ "LOCK IN SHARE MODE" // MYSQL - TODO Trifon
+				//+ "FOR UPDATE";	// MYSQL
+				;
+				USE_PROCEDURE = false;
 		}
 
 		//hengsin: executing getNextID in transaction create huge performance and locking issue
@@ -146,6 +156,9 @@ public class MSequence extends X_AD_Sequence
 
 					// Get the table
 					MTable table = MTable.get(Env.getCtx(), TableName);
+					// Set the transaction from Persistence Object avoid null transaction error
+					if (table.get_TrxName() == null && trxName != null)
+						table.set_TrxName(trxName);
 
 					int AD_Sequence_ID = rs.getInt(4);
 					boolean gotFromHTTP = false;
@@ -252,8 +265,7 @@ public class MSequence extends X_AD_Sequence
 			finally
 			{
 				DB.close(rs, pstmt);
-				pstmt = null;
-				rs = null;
+				rs = null; pstmt = null;
 				if (conn != null)
 				{
 					try {
@@ -306,6 +318,7 @@ public class MSequence extends X_AD_Sequence
 		finally
 		{
 			DB.close(cstmt);
+			cstmt = null;
 		}
 		return retValue;
 	}	//	nextID
@@ -344,6 +357,7 @@ public class MSequence extends X_AD_Sequence
 			s_log.log(Level.SEVERE, e.toString());
 		} finally {
 			DB.close(cstmt);
+			cstmt = null;
 		}
 		return retValue;
 	} // nextID
@@ -409,6 +423,7 @@ public class MSequence extends X_AD_Sequence
 			finally
 			{
 				DB.close(rs, pstmt);
+				rs = null; pstmt = null;
 			}
 		}
 
@@ -425,7 +440,7 @@ public class MSequence extends X_AD_Sequence
 						+ "AND y.CalendarYear = ? "
 						+ "AND s.IsActive='Y' AND s.IsTableID='N' AND s.IsAutoSequence='Y' "
 						+ "ORDER BY s.AD_Client_ID DESC "
-						+ "FOR UPDATE OF y";
+						+ "FOR UPDATE "; //OF y"; // dete: MySql
 			} else {
 				selectSQL = "SELECT CurrentNext, CurrentNextSys, IncrementNo, Prefix, Suffix, DecimalPattern, AD_Sequence_ID "
 						+ "FROM AD_Sequence "
@@ -433,7 +448,7 @@ public class MSequence extends X_AD_Sequence
 						+ "AND AD_Client_ID = ? "
 						+ "AND IsActive='Y' AND IsTableID='N' AND IsAutoSequence='Y' "
 						+ "ORDER BY AD_Client_ID DESC "
-						+ "FOR UPDATE OF AD_Sequence";
+						+ "FOR UPDATE "; //OF AD_Sequence"; //dete: MySql
 			}
 			USE_PROCEDURE=false;
 		}
@@ -554,7 +569,7 @@ public class MSequence extends X_AD_Sequence
 				s_log.warning ("(Table) - no record found - " + TableName);
 				MSequence seq = new MSequence (Env.getCtx(), AD_Client_ID, TableName, null);
 				next = seq.getNextID();
-				seq.save();
+				seq.saveEx();
 			}
 			//	Commit
 			if (trx == null)
@@ -574,6 +589,7 @@ public class MSequence extends X_AD_Sequence
 		{
 			//Finish
 			DB.close(rs, pstmt);
+			rs = null; pstmt = null;
 			try
 			{
 				if (trx == null && conn != null) {
@@ -698,6 +714,7 @@ public class MSequence extends X_AD_Sequence
 			finally
 			{
 				DB.close(rs, pstmt);
+				rs = null; pstmt = null;
 			}
 		}
 
@@ -712,7 +729,7 @@ public class MSequence extends X_AD_Sequence
 						+ "AND s.AD_Sequence_ID = ? "
 						+ "AND y.CalendarYear = ? "
 						+ "AND s.IsActive='Y' AND s.IsTableID='N' AND s.IsAutoSequence='Y' "
-						+ "FOR UPDATE OF y";
+						+ "FOR UPDATE "; //OF y"; //dete: MySql
 			}
 			else
 			{
@@ -720,7 +737,7 @@ public class MSequence extends X_AD_Sequence
 						+ "FROM AD_Sequence "
 						+ "WHERE AD_Sequence_ID = ? "
 						+ "AND IsActive='Y' AND IsTableID='N' AND IsAutoSequence='Y' "
-						+ "FOR UPDATE OF AD_Sequence";
+						+ "FOR UPDATE "; //OF AD_Sequence"; //dete: MySql
 			}
 			USE_PROCEDURE=false;
 		}
@@ -1037,15 +1054,14 @@ public class MSequence extends X_AD_Sequence
 		finally
 		{
 			DB.close(rs, pstmt);
-			rs = null;
-			pstmt = null;
+			rs = null; pstmt = null;
 		}
 		return retValue;
 	}	//	get
 
 
 	/**	Sequence for Table Document No's	*/
-	private static final String	PREFIX_DOCSEQ = "DocumentNo_";
+	public static final String	PREFIX_DOCSEQ = "DocumentNo_";
 	/**	Start Number			*/
 	public static final int		INIT_NO = 1000000;	//	1 Mio
 	/**	Start System Number		*/
@@ -1417,7 +1433,7 @@ public class MSequence extends X_AD_Sequence
 				try
 				{
 					int no = DB.getNextID(0, "Test", null);
-					s_list.add(new Integer(no));
+					s_list.add(Integer.valueOf(no));
 				//	System.out.println("#" + m_i + ": " + no);
 				}
 				catch (Exception e)
@@ -1578,8 +1594,7 @@ public class MSequence extends X_AD_Sequence
 			d = new Date();
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy");
 		String calendarYear = sdf.format(d);
-		String sql = "select CurrentNext From AD_Sequence_No Where AD_Sequence_ID = ? and CalendarYear = ?";
-
+		String sql = "SELECT CurrentNext FROM AD_Sequence_No WHERE AD_Sequence_ID = ? AND CalendarYear = ?";
 		return DB.getSQLValueString(trxName, sql, AD_Sequence_ID, calendarYear);
 	}
 
